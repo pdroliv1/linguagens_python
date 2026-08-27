@@ -1,0 +1,251 @@
+id_usuario,plano,horas_assistidas,dispositivo_principal,score_satisfacao,cancelou_assinatura
+USR-0001,Básico,17.5,Smart TV,5,Não
+USR-0002,Padrão,21.3,Smartphone,4,Não
+USR-0003,Premium,23.9,Tablet,4,Não
+USR-0004,Básico,53.2,Smart TV,7,Não
+USR-0005,Padrão,61.7,Tablet,5,Sim
+USR-0006,Premium,25.0,Computador,9,Não
+USR-0007,Básico,25.7,Tablet,2,Não
+USR-0008,Premium,29.7,Computador,1,Não
+USR-0009,Padrão,15.5,Tablet,4,Não
+USR-0010,Premium,4.6,Smart TV,10,Não
+USR-0011,Básico,70.0,Computador,6,Não
+USR-0012,Básico,6.9,Computador,4,Não
+USR-0013,Básico,12.1,Smartphone,6,Não
+USR-0014,Premium,22.0,Computador,2,Não
+USR-0015,Básico,10.8,Computador,5,Não
+USR-0016,Padrão,16.2,Smartphone,6,Não
+USR-0017,Padrão,32.3,Computador,1,Não
+USR-0018,Básico,13.8,Computador,6,Não
+USR-0019,Padrão,47.7,Smart TV,10,Não
+USR-0020,Premium,28.4,Smart TV,1,Não
+USR-0021,Básico,64.8,Tablet,7,Não
+USR-0022,Básico,51.5,Tablet,2,Não
+USR-0023,Básico,54.9,Smartphone,1,Sim
+USR-0024,Padrão,51.5,Computador,5,Sim
+USR-0025,Básico,36.4,Tablet,10,Não
+USR-0026,Premium,60.4,Tablet,3,Não
+USR-0027,Básico,14.9,Smart TV,5,Não
+USR-0028,Básico,41.0,Tablet,4,Não
+USR-0029,Padrão,25.6,Tablet,8,Não
+USR-0030,Padrão,57.4,Smart TV,6,Não
+USR-0031,Premium,25.3,Tablet,2,Não
+USR-0032,Padrão,81.0,Computador,2,Sim
+USR-0033,Padrão,20.4,Smartphone,7,Não
+USR-0034,Padrão,82.7,Computador,10,Sim
+USR-0035,Básico,50.3,Computador,7,Sim
+USR-0036,Padrão,38.7,Smart TV,10,Não
+USR-0037,Padrão,28.2,Smartphone,6,Não
+USR-0038,Padrão,29.5,Computador,7,Sim
+USR-0039,Básico,37.9,Computador,8,Não
+USR-0040,Padrão,34.6,Tablet,2,Não
+USR-0041,Premium,17.5,Computador,5,Não
+USR-0042,Básico,24.2,Computador,7,Não
+USR-0043,Básico,6.2,Smart TV,4,Não
+USR-0044,Básico,12.2,Tablet,6,Não
+USR-0045,Básico,80.9,Smartphone,5,Não
+USR-0046,Básico,27.8,Smartphone,6,Sim
+USR-0047,Padrão,24.7,Computador,3,Não
+USR-0048,Padrão,8.2,Smart TV,2,Não
+USR-0049,Premium,5.4,Smart TV,7,Não
+USR-0050,Básico,17.0,Smart TV,6,Não
+USR-0051,Básico,50.0,Tablet,5,Sim
+USR-0052,Premium,26.6,Smartphone,3,Não
+USR-0053,Básico,40.6,Smartphone,2,Não
+USR-0054,Padrão,12.3,Tablet,4,Sim
+USR-0055,Básico,48.3,Smartphone,1,Sim
+USR-0056,Padrão,22.4,Smart TV,2,Não
+USR-0057,Premium,42.7,Smartphone,4,Não
+USR-0058,Padrão,41.3,Computador,5,Não
+USR-0059,Básico,57.0,Smartphone,5,Não
+USR-0060,Padrão,21.0,Computador,10,Não
+USR-0061,Padrão,36.3,Computador,2,Não
+USR-0062,Padrão,60.5,Smart TV,10,Sim
+USR-0063,Padrão,15.9,Smartphone,10,Não
+USR-0064,Básico,37.6,Smart TV,1,Não
+USR-0065,Premium,34.6,Computador,4,Não
+USR-0066,Padrão,43.7,Smartphone,4,Não
+USR-0067,Básico,25.3,Smartphone,9,Não
+USR-0068,Premium,34.2,Computador,8,Não
+USR-0069,Básico,55.7,Tablet,6,Não
+USR-0070,Básico,22.6,Smart TV,6,Não
+USR-0071,Padrão,77.8,Computador,10,Não
+USR-0072,Básico,71.4,Smart TV,6,Não
+USR-0073,Padrão,21.8,Smart TV,7,Não
+USR-0074,Padrão,10.7,Tablet,4,Não
+USR-0075,Básico,27.0,Smartphone,4,Não
+USR-0076,Padrão,24.1,Computador,2,Sim
+USR-0077,Básico,30.0,Computador,6,Não
+USR-0078,Básico,7.9,Computador,9,Não
+USR-0079,Premium,82.8,Smart TV,6,Não
+USR-0080,Premium,46.2,Smart TV,8,Sim
+USR-0081,Básico,24.2,Tablet,8,Não
+USR-0082,Premium,100.6,Smartphone,2,Não
+USR-0083,Padrão,34.7,Computador,4,Não
+USR-0084,Premium,45.5,Smart TV,6,Não
+USR-0085,Básico,51.3,Smart TV,1,Não
+USR-0086,Básico,47.9,Computador,10,Não
+USR-0087,Básico,32.3,Tablet,9,Não
+USR-0088,Premium,63.9,Computador,4,Não
+USR-0089,Premium,30.5,Computador,7,Não
+USR-0090,Básico,13.9,Smart TV,6,Não
+USR-0091,Padrão,18.8,Smart TV,2,Não
+USR-0092,Premium,26.4,Computador,7,Sim
+USR-0093,Padrão,19.7,Smartphone,8,Não
+USR-0094,Básico,22.0,Tablet,8,Não
+USR-0095,Padrão,43.3,Smart TV,8,Não
+USR-0096,Premium,56.9,Smart TV,6,Não
+USR-0097,Premium,33.8,Smartphone,10,Não
+USR-0098,Padrão,37.5,Computador,3,Não
+USR-0099,Premium,16.1,Smartphone,9,Não
+USR-0100,Básico,25.1,Smart TV,3,Não
+USR-0101,Premium,81.7,Smartphone,7,Não
+USR-0102,Básico,29.4,Computador,1,Não
+USR-0103,Premium,40.9,Tablet,8,Não
+USR-0104,Padrão,63.6,Smartphone,4,Sim
+USR-0105,Básico,11.0,Tablet,5,Não
+USR-0106,Padrão,45.2,Smart TV,8,Não
+USR-0107,Padrão,57.0,Smart TV,5,Não
+USR-0108,Padrão,11.4,Computador,7,Não
+USR-0109,Padrão,26.1,Smartphone,5,Não
+USR-0110,Padrão,21.7,Smart TV,3,Não
+USR-0111,Premium,20.0,Computador,9,Não
+USR-0112,Padrão,28.9,Smartphone,5,Sim
+USR-0113,Padrão,20.1,Smartphone,10,Não
+USR-0114,Padrão,32.5,Computador,4,Não
+USR-0115,Premium,48.5,Smart TV,2,Não
+USR-0116,Básico,32.6,Smartphone,7,Não
+USR-0117,Básico,119.4,Smart TV,7,Não
+USR-0118,Básico,9.5,Smart TV,6,Não
+USR-0119,Premium,21.1,Computador,8,Não
+USR-0120,Padrão,5.7,Tablet,8,Não
+USR-0121,Padrão,25.6,Computador,10,Sim
+USR-0122,Padrão,44.0,Smartphone,10,Não
+USR-0123,Básico,56.7,Smartphone,8,Não
+USR-0124,Premium,34.3,Smartphone,5,Não
+USR-0125,Premium,47.7,Computador,8,Não
+USR-0126,Premium,16.4,Smartphone,4,Não
+USR-0127,Básico,33.6,Tablet,2,Não
+USR-0128,Básico,15.4,Computador,7,Sim
+USR-0129,Padrão,9.7,Smart TV,10,Não
+USR-0130,Premium,53.4,Computador,3,Não
+USR-0131,Básico,44.6,Computador,9,Não
+USR-0132,Padrão,87.8,Computador,5,Não
+USR-0133,Premium,38.9,Smartphone,7,Não
+USR-0134,Premium,52.3,Computador,5,Não
+USR-0135,Padrão,39.8,Tablet,4,Não
+USR-0136,Padrão,46.4,Tablet,9,Não
+USR-0137,Padrão,33.7,Smart TV,1,Sim
+USR-0138,Básico,15.4,Smart TV,8,Não
+USR-0139,Básico,36.1,Smartphone,1,Não
+USR-0140,Básico,12.3,Smart TV,5,Não
+USR-0141,Padrão,11.0,Smartphone,7,Não
+USR-0142,Básico,31.5,Tablet,8,Não
+USR-0143,Básico,7.9,Smart TV,9,Não
+USR-0144,Básico,20.8,Tablet,9,Não
+USR-0145,Premium,60.3,Smart TV,10,Sim
+USR-0146,Básico,47.4,Tablet,9,Não
+USR-0147,Padrão,23.8,Tablet,1,Não
+USR-0148,Premium,8.7,Tablet,10,Não
+USR-0149,Padrão,25.6,Smart TV,4,Não
+USR-0150,Padrão,38.5,Tablet,5,Não
+USR-0151,Premium,59.5,Smart TV,10,Não
+USR-0152,Básico,52.9,Computador,8,Não
+USR-0153,Premium,26.6,Smart TV,9,Sim
+USR-0154,Básico,63.7,Smart TV,1,Não
+USR-0155,Padrão,33.7,Computador,9,Não
+USR-0156,Premium,34.5,Smart TV,7,Não
+USR-0157,Premium,23.3,Computador,6,Não
+USR-0158,Padrão,37.4,Smartphone,10,Não
+USR-0159,Premium,26.3,Smartphone,6,Não
+USR-0160,Básico,6.6,Tablet,8,Não
+USR-0161,Básico,13.2,Smart TV,2,Sim
+USR-0162,Básico,58.3,Computador,8,Não
+USR-0163,Padrão,35.2,Computador,6,Não
+USR-0164,Premium,31.2,Smart TV,7,Não
+USR-0165,Padrão,28.1,Smartphone,7,Não
+USR-0166,Básico,59.2,Smart TV,2,Sim
+USR-0167,Premium,24.9,Smart TV,7,Sim
+USR-0168,Básico,13.8,Computador,9,Não
+USR-0169,Premium,21.1,Computador,2,Não
+USR-0170,Padrão,20.1,Smart TV,6,Não
+USR-0171,Básico,71.4,Smart TV,5,Não
+USR-0172,Padrão,26.6,Smartphone,1,Sim
+USR-0173,Premium,100.8,Smart TV,9,Não
+USR-0174,Básico,80.0,Computador,4,Não
+USR-0175,Básico,35.4,Tablet,1,Não
+USR-0176,Premium,12.0,Smartphone,3,Não
+USR-0177,Premium,13.3,Smart TV,1,Não
+USR-0178,Padrão,18.8,Smartphone,8,Não
+USR-0179,Premium,42.5,Tablet,8,Não
+USR-0180,Básico,19.2,Smart TV,8,Não
+USR-0181,Básico,37.8,Tablet,10,Não
+USR-0182,Básico,3.4,Computador,4,Não
+USR-0183,Básico,42.8,Smartphone,10,Não
+USR-0184,Premium,52.0,Smart TV,7,Não
+USR-0185,Premium,32.3,Smart TV,7,Sim
+USR-0186,Básico,18.9,Smartphone,4,Não
+USR-0187,Básico,25.9,Computador,4,Não
+USR-0188,Básico,19.7,Tablet,2,Não
+USR-0189,Premium,9.5,Smartphone,10,Não
+USR-0190,Padrão,37.4,Smart TV,2,Não
+USR-0191,Premium,20.0,Smart TV,8,Não
+USR-0192,Básico,23.2,Smartphone,7,Não
+USR-0193,Básico,36.1,Tablet,9,Sim
+USR-0194,Básico,22.1,Smart TV,5,Sim
+USR-0195,Premium,19.2,Smart TV,6,Não
+USR-0196,Padrão,26.2,Smartphone,1,Sim
+USR-0197,Básico,71.6,Smart TV,1,Não
+USR-0198,Básico,109.6,Smartphone,1,Não
+USR-0199,Básico,48.7,Computador,3,Não
+USR-0200,Básico,8.0,Smart TV,2,Não
+USR-0201,Básico,33.2,Computador,9,Não
+USR-0202,Premium,20.5,Smart TV,1,Não
+USR-0203,Básico,67.7,Computador,4,Não
+USR-0204,Básico,45.8,Smartphone,4,Não
+USR-0205,Básico,54.3,Smart TV,3,Não
+USR-0206,Premium,25.1,Smart TV,1,Não
+USR-0207,Premium,20.7,Smartphone,8,Sim
+USR-0208,Básico,15.3,Tablet,9,Não
+USR-0209,Premium,59.4,Smartphone,5,Não
+USR-0210,Premium,70.8,Tablet,5,Sim
+USR-0211,Padrão,19.5,Smartphone,9,Não
+USR-0212,Padrão,37.3,Smartphone,5,Não
+USR-0213,Padrão,19.8,Smart TV,8,Não
+USR-0214,Básico,6.4,Tablet,5,Sim
+USR-0215,Básico,36.7,Computador,1,Não
+USR-0216,Padrão,30.8,Tablet,4,Sim
+USR-0217,Padrão,25.2,Computador,7,Não
+USR-0218,Padrão,48.5,Smartphone,10,Não
+USR-0219,Básico,132.2,Smart TV,4,Não
+USR-0220,Básico,61.3,Smartphone,4,Não
+USR-0221,Básico,24.2,Computador,5,Não
+USR-0222,Premium,35.6,Smartphone,3,Sim
+USR-0223,Padrão,8.6,Smartphone,7,Não
+USR-0224,Padrão,57.9,Tablet,2,Não
+USR-0225,Básico,15.4,Tablet,3,Não
+USR-0226,Básico,14.7,Smart TV,3,Não
+USR-0227,Básico,55.4,Tablet,5,Não
+USR-0228,Padrão,5.9,Smart TV,9,Não
+USR-0229,Padrão,58.3,Tablet,6,Não
+USR-0230,Padrão,86.8,Tablet,4,Não
+USR-0231,Padrão,25.1,Computador,8,Não
+USR-0232,Básico,26.8,Smartphone,4,Sim
+USR-0233,Básico,74.1,Tablet,3,Não
+USR-0234,Padrão,27.8,Computador,10,Não
+USR-0235,Padrão,68.4,Computador,3,Não
+USR-0236,Padrão,93.8,Smartphone,5,Não
+USR-0237,Básico,81.5,Computador,6,Não
+USR-0238,Padrão,45.1,Computador,4,Não
+USR-0239,Padrão,37.7,Computador,7,Não
+USR-0240,Padrão,76.6,Smart TV,6,Não
+USR-0241,Padrão,47.6,Computador,5,Não
+USR-0242,Básico,33.6,Smart TV,6,Não
+USR-0243,Premium,52.7,Tablet,4,Sim
+USR-0244,Padrão,53.8,Smart TV,6,Não
+USR-0245,Padrão,8.9,Tablet,5,Não
+USR-0246,Básico,67.7,Smartphone,1,Não
+USR-0247,Básico,34.0,Computador,10,Sim
+USR-0248,Premium,50.9,Tablet,4,Sim
+USR-0249,Básico,72.1,Tablet,8,Não
+USR-0250,Premium,21.6,Smartphone,4,Não
