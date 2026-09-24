@@ -1,0 +1,1201 @@
+pedido_id,data,categoria,produto,quantidade,preco_unitario,receita
+1118,2025-01-01,Alimentos,Café Especial,4,58.11,232.44
+1139,2025-01-01,Alimentos,Café Especial,5,20.36,101.8
+1365,2025-01-01,Eletrônicos,Mouse Sem Fio,4,201.39,805.56
+1666,2025-01-01,Esporte e Lazer,Tênis de Corrida,5,292.13,1460.65
+2186,2025-01-01,Casa e Decoração,Almofada,5,163.52,817.6
+1957,2025-01-02,Vestuário,Jaqueta,1,187.86,187.86
+1037,2025-01-02,Vestuário,Tênis,5,112.46,562.3
+2030,2025-01-03,Eletrônicos,Mouse Sem Fio,4,291.04,1164.16
+1505,2025-01-03,Esporte e Lazer,Garrafa Térmica,2,207.48,414.96
+1494,2025-01-03,Eletrônicos,Mouse Sem Fio,3,208.48,625.44
+2194,2025-01-04,Eletrônicos,Fone Bluetooth,1,173.93,173.93
+2122,2025-01-04,Eletrônicos,Mouse Sem Fio,3,303.42,910.26
+1090,2025-01-04,Vestuário,Camiseta,4,163.01,652.04
+1651,2025-01-05,Eletrônicos,Mouse Sem Fio,4,229.37,917.48
+1993,2025-01-05,Vestuário,Camiseta,5,137.44,687.2
+2055,2025-01-05,Casa e Decoração,Jogo de Panelas,3,127.33,381.99
+2160,2025-01-06,Esporte e Lazer,Tênis de Corrida,5,56.51,282.55
+2148,2025-01-06,Casa e Decoração,Jogo de Panelas,5,287.15,1435.75
+1061,2025-01-06,Alimentos,Chocolate,1,57.65,57.65
+1971,2025-01-06,Alimentos,Chocolate,4,52.41,209.64
+1313,2025-01-07,Esporte e Lazer,Kit Yoga,1,130.17,130.17
+1710,2025-01-07,Casa e Decoração,Almofada,4,30.37,121.48
+1302,2025-01-07,Esporte e Lazer,Kit Yoga,5,308.35,1541.75
+1553,2025-01-08,Esporte e Lazer,Garrafa Térmica,4,291.62,1166.48
+2096,2025-01-08,Esporte e Lazer,Garrafa Térmica,3,143.52,430.56
+1736,2025-01-08,Esporte e Lazer,Bola de Futebol,4,105.39,421.56
+1648,2025-01-08,Casa e Decoração,Almofada,1,221.94,221.94
+1049,2025-01-09,Eletrônicos,Carregador Portátil,3,312.31,936.93
+1406,2025-01-09,Vestuário,Tênis,2,115.76,231.52
+1327,2025-01-09,Eletrônicos,Mouse Sem Fio,5,166.08,830.4
+1088,2025-01-10,Esporte e Lazer,Garrafa Térmica,2,109.79,219.58
+2105,2025-01-11,Vestuário,Jaqueta,3,184.76,554.28
+2140,2025-01-11,Casa e Decoração,Jogo de Panelas,2,101.41,202.82
+1203,2025-01-11,Vestuário,Tênis,2,238.93,477.86
+1925,2025-01-11,Vestuário,Calça Jeans,4,75.3,301.2
+1156,2025-01-12,Vestuário,Calça Jeans,2,67.04,134.08
+1094,2025-01-12,Vestuário,Camiseta,3,169.83,509.49
+2135,2025-01-12,Alimentos,Azeite Extra Virgem,1,53.69,53.69
+1555,2025-01-12,Alimentos,Barra de Cereal,1,30.89,30.89
+1344,2025-01-12,Casa e Decoração,Almofada,1,265.38,265.38
+1305,2025-01-12,Vestuário,Tênis,5,169.55,847.75
+1652,2025-01-12,Eletrônicos,Carregador Portátil,3,244.13,732.39
+1680,2025-01-12,Vestuário,Calça Jeans,2,191.56,383.12
+2067,2025-01-12,Alimentos,Barra de Cereal,3,39.71,119.13
+1690,2025-01-13,Esporte e Lazer,Tênis de Corrida,4,67.12,268.48
+1673,2025-01-13,Casa e Decoração,Luminária,3,246.94,740.82
+1497,2025-01-13,Eletrônicos,Mouse Sem Fio,4,81.67,326.68
+1182,2025-01-13,Vestuário,Tênis,1,69.15,69.15
+1695,2025-01-13,Vestuário,Camiseta,5,127.32,636.6
+1958,2025-01-13,Vestuário,Camiseta,2,75.85,151.7
+1660,2025-01-13,Esporte e Lazer,Kit Yoga,2,179.97,359.94
+1952,2025-01-13,Esporte e Lazer,Kit Yoga,2,282.59,565.18
+1167,2025-01-13,Casa e Decoração,Almofada,4,125.88,503.52
+1069,2025-01-13,Casa e Decoração,Luminária,1,199.53,199.53
+1438,2025-01-14,Eletrônicos,Carregador Portátil,5,87.33,436.65
+1359,2025-01-14,Eletrônicos,Mouse Sem Fio,2,110.48,220.96
+1162,2025-01-14,Alimentos,Chocolate,3,45.67,137.01
+1455,2025-01-14,Esporte e Lazer,Tênis de Corrida,5,28.59,142.95
+1499,2025-01-14,Eletrônicos,Smartwatch,5,197.74,988.7
+1195,2025-01-15,Esporte e Lazer,Tênis de Corrida,4,265.97,1063.88
+1696,2025-01-16,Eletrônicos,Fone Bluetooth,3,313.76,941.28
+1823,2025-01-16,Vestuário,Calça Jeans,2,225.84,451.68
+2171,2025-01-16,Casa e Decoração,Tapete,3,136.92,410.76
+1060,2025-01-17,Casa e Decoração,Tapete,5,105.48,527.4
+1256,2025-01-17,Eletrônicos,Fone Bluetooth,5,300.29,1501.45
+2044,2025-01-17,Esporte e Lazer,Tênis de Corrida,4,290.62,1162.48
+2156,2025-01-18,Esporte e Lazer,Kit Yoga,4,49.95,199.8
+1795,2025-01-19,Esporte e Lazer,Kit Yoga,2,91.76,183.52
+1853,2025-01-19,Alimentos,Barra de Cereal,2,18.58,37.16
+1287,2025-01-20,Vestuário,Camiseta,5,94.65,473.25
+1070,2025-01-20,Eletrônicos,Mouse Sem Fio,4,363.72,1454.88
+2094,2025-01-20,Alimentos,Café Especial,2,33.82,67.64
+1504,2025-01-20,Eletrônicos,Carregador Portátil,4,243.24,972.96
+1395,2025-01-21,Alimentos,Azeite Extra Virgem,5,54.9,274.5
+1356,2025-01-21,Eletrônicos,Carregador Portátil,2,309.06,618.12
+1001,2025-01-21,Vestuário,Jaqueta,3,136.44,409.32
+1528,2025-01-21,Casa e Decoração,Luminária,1,238.4,238.4
+1556,2025-01-21,Esporte e Lazer,Bola de Futebol,4,349.05,1396.2
+1769,2025-01-22,Esporte e Lazer,Bola de Futebol,5,73.62,368.1
+1891,2025-01-22,Esporte e Lazer,Tênis de Corrida,3,292.91,878.73
+1342,2025-01-22,Vestuário,Jaqueta,3,48.56,145.68
+1057,2025-01-22,Esporte e Lazer,Kit Yoga,3,166.18,498.54
+1155,2025-01-22,Esporte e Lazer,Bola de Futebol,1,198.69,198.69
+1760,2025-01-24,Vestuário,Tênis,3,148.29,444.87
+1812,2025-01-25,Esporte e Lazer,Garrafa Térmica,1,30.0,30.0
+1443,2025-01-25,Esporte e Lazer,Tênis de Corrida,2,47.16,94.32
+1444,2025-01-25,Casa e Decoração,Almofada,4,239.72,958.88
+1719,2025-01-25,Vestuário,Jaqueta,5,98.01,490.05
+1421,2025-01-27,Esporte e Lazer,Garrafa Térmica,2,246.04,492.08
+1245,2025-01-27,Eletrônicos,Carregador Portátil,3,271.17,813.51
+1474,2025-01-28,Alimentos,Azeite Extra Virgem,2,14.92,29.84
+2181,2025-01-28,Eletrônicos,Smartwatch,1,182.09,182.09
+1536,2025-01-28,Vestuário,Jaqueta,1,206.26,206.26
+1617,2025-01-28,Alimentos,Chocolate,3,47.05,141.15
+1165,2025-01-28,Vestuário,Jaqueta,1,216.55,216.55
+1798,2025-01-29,Vestuário,Jaqueta,2,232.09,464.18
+1026,2025-01-29,Casa e Decoração,Almofada,3,217.59,652.77
+1303,2025-01-31,Vestuário,Calça Jeans,3,88.01,264.03
+1782,2025-02-01,Casa e Decoração,Luminária,1,36.8,36.8
+1020,2025-02-02,Esporte e Lazer,Kit Yoga,4,232.21,928.84
+1169,2025-02-03,Eletrônicos,Mouse Sem Fio,3,201.21,603.63
+1130,2025-02-04,Esporte e Lazer,Bola de Futebol,2,160.41,320.82
+1021,2025-02-04,Eletrônicos,Carregador Portátil,5,390.95,1954.75
+1100,2025-02-05,Vestuário,Camiseta,5,90.11,450.55
+1403,2025-02-05,Casa e Decoração,Tapete,1,130.85,130.85
+1233,2025-02-05,Esporte e Lazer,Garrafa Térmica,2,315.12,630.24
+1603,2025-02-06,Eletrônicos,Fone Bluetooth,1,116.43,116.43
+1295,2025-02-06,Casa e Decoração,Tapete,5,271.51,1357.55
+1184,2025-02-07,Alimentos,Barra de Cereal,1,52.54,52.54
+1045,2025-02-08,Vestuário,Tênis,1,181.89,181.89
+2192,2025-02-08,Vestuário,Calça Jeans,1,84.94,84.94
+1316,2025-02-08,Esporte e Lazer,Tênis de Corrida,3,96.75,290.25
+1068,2025-02-08,Esporte e Lazer,Bola de Futebol,2,288.29,576.58
+1573,2025-02-08,Eletrônicos,Carregador Portátil,4,292.8,1171.2
+1843,2025-02-08,Eletrônicos,Smartwatch,5,296.62,1483.1
+1304,2025-02-08,Vestuário,Tênis,2,214.75,429.5
+2128,2025-02-08,Vestuário,Tênis,1,213.97,213.97
+1174,2025-02-09,Esporte e Lazer,Garrafa Térmica,2,212.2,424.4
+2001,2025-02-09,Esporte e Lazer,Kit Yoga,1,107.18,107.18
+1293,2025-02-09,Eletrônicos,Fone Bluetooth,3,107.84,323.52
+1019,2025-02-10,Casa e Decoração,Jogo de Panelas,1,198.29,198.29
+1463,2025-02-11,Esporte e Lazer,Bola de Futebol,5,68.27,341.35
+1642,2025-02-11,Vestuário,Tênis,5,80.87,404.35
+1415,2025-02-11,Esporte e Lazer,Kit Yoga,1,250.04,250.04
+1243,2025-02-11,Casa e Decoração,Almofada,2,179.63,359.26
+1257,2025-02-11,Eletrônicos,Carregador Portátil,3,342.11,1026.33
+2145,2025-02-11,Esporte e Lazer,Garrafa Térmica,3,98.7,296.1
+1394,2025-02-12,Vestuário,Tênis,3,149.46,448.38
+1711,2025-02-12,Esporte e Lazer,Garrafa Térmica,5,341.61,1708.05
+2011,2025-02-13,Alimentos,Azeite Extra Virgem,3,12.2,36.6
+2150,2025-02-14,Esporte e Lazer,Kit Yoga,1,206.31,206.31
+2191,2025-02-14,Esporte e Lazer,Bola de Futebol,1,51.51,51.51
+1757,2025-02-15,Casa e Decoração,Luminária,1,128.38,128.38
+2172,2025-02-15,Casa e Decoração,Jogo de Panelas,5,147.19,735.95
+1158,2025-02-16,Eletrônicos,Smartwatch,3,374.68,1124.04
+2033,2025-02-16,Casa e Decoração,Tapete,1,73.26,73.26
+1123,2025-02-16,Eletrônicos,Fone Bluetooth,1,280.82,280.82
+1514,2025-02-16,Casa e Decoração,Jogo de Panelas,1,286.58,286.58
+2127,2025-02-16,Alimentos,Azeite Extra Virgem,4,40.72,162.88
+1550,2025-02-16,Vestuário,Calça Jeans,4,186.14,744.56
+1179,2025-02-16,Eletrônicos,Smartwatch,5,241.95,1209.75
+1811,2025-02-17,Esporte e Lazer,Kit Yoga,4,252.87,1011.48
+1875,2025-02-17,Eletrônicos,Mouse Sem Fio,1,266.79,266.79
+1866,2025-02-17,Vestuário,Tênis,4,78.16,312.64
+1868,2025-02-18,Esporte e Lazer,Bola de Futebol,2,191.84,383.68
+1218,2025-02-18,Eletrônicos,Mouse Sem Fio,1,127.57,127.57
+1477,2025-02-18,Casa e Decoração,Luminária,4,239.15,956.6
+1600,2025-02-18,Eletrônicos,Smartwatch,3,350.06,1050.18
+1906,2025-02-19,Casa e Decoração,Luminária,1,154.52,154.52
+1352,2025-02-19,Eletrônicos,Carregador Portátil,1,220.36,220.36
+1408,2025-02-19,Alimentos,Chocolate,4,43.57,174.28
+1208,2025-02-20,Esporte e Lazer,Bola de Futebol,1,325.81,325.81
+1518,2025-02-20,Esporte e Lazer,Kit Yoga,2,302.14,604.28
+2000,2025-02-21,Eletrônicos,Mouse Sem Fio,1,226.54,226.54
+1398,2025-02-21,Alimentos,Café Especial,4,36.96,147.84
+1840,2025-02-21,Eletrônicos,Fone Bluetooth,5,184.56,922.8
+2101,2025-02-21,Esporte e Lazer,Tênis de Corrida,3,88.78,266.34
+1035,2025-02-21,Casa e Decoração,Luminária,2,222.31,444.62
+1679,2025-02-22,Casa e Decoração,Almofada,3,239.34,718.02
+1107,2025-02-22,Eletrônicos,Carregador Portátil,5,377.9,1889.5
+1075,2025-02-22,Casa e Decoração,Tapete,4,198.18,792.72
+1961,2025-02-22,Casa e Decoração,Luminária,1,260.31,260.31
+1142,2025-02-23,Casa e Decoração,Almofada,3,138.94,416.82
+2093,2025-02-23,Alimentos,Café Especial,2,13.29,26.58
+1678,2025-02-23,Casa e Decoração,Tapete,2,95.32,190.64
+2111,2025-02-23,Eletrônicos,Mouse Sem Fio,4,206.7,826.8
+2039,2025-02-23,Alimentos,Azeite Extra Virgem,1,10.48,10.48
+1225,2025-02-24,Alimentos,Chocolate,2,23.54,47.08
+1449,2025-02-25,Eletrônicos,Carregador Portátil,3,134.61,403.83
+1994,2025-02-25,Alimentos,Café Especial,5,21.31,106.55
+1523,2025-02-26,Casa e Decoração,Tapete,1,288.29,288.29
+2077,2025-02-26,Vestuário,Camiseta,4,164.32,657.28
+1800,2025-02-27,Esporte e Lazer,Garrafa Térmica,1,264.81,264.81
+1300,2025-02-28,Eletrônicos,Fone Bluetooth,3,156.38,469.14
+1910,2025-02-28,Eletrônicos,Fone Bluetooth,2,257.5,515.0
+1264,2025-02-28,Vestuário,Camiseta,5,180.68,903.4
+1005,2025-02-28,Vestuário,Tênis,4,244.49,977.96
+1995,2025-02-28,Vestuário,Camiseta,4,169.56,678.24
+2007,2025-03-01,Esporte e Lazer,Bola de Futebol,2,247.26,494.52
+1561,2025-03-01,Casa e Decoração,Almofada,3,273.35,820.05
+1309,2025-03-01,Esporte e Lazer,Tênis de Corrida,4,81.47,325.88
+1159,2025-03-02,Eletrônicos,Smartwatch,4,337.98,1351.92
+1281,2025-03-02,Esporte e Lazer,Kit Yoga,4,160.71,642.84
+1822,2025-03-02,Vestuário,Jaqueta,2,165.39,330.78
+1190,2025-03-03,Casa e Decoração,Almofada,5,188.84,944.2
+1456,2025-03-03,Alimentos,Café Especial,5,48.01,240.05
+1176,2025-03-03,Eletrônicos,Smartwatch,3,262.92,788.76
+1859,2025-03-03,Eletrônicos,Carregador Portátil,1,295.44,295.44
+1217,2025-03-04,Alimentos,Barra de Cereal,2,10.65,21.3
+1832,2025-03-04,Alimentos,Barra de Cereal,1,20.05,20.05
+1780,2025-03-04,Eletrônicos,Mouse Sem Fio,5,383.07,1915.35
+2038,2025-03-05,Vestuário,Tênis,1,128.12,128.12
+2049,2025-03-05,Esporte e Lazer,Kit Yoga,4,202.91,811.64
+1590,2025-03-06,Esporte e Lazer,Kit Yoga,4,320.97,1283.88
+1781,2025-03-06,Eletrônicos,Carregador Portátil,2,132.17,264.34
+1545,2025-03-07,Eletrônicos,Mouse Sem Fio,3,370.95,1112.85
+1194,2025-03-08,Alimentos,Chocolate,2,16.96,33.92
+2149,2025-03-08,Vestuário,Tênis,4,41.54,166.16
+1229,2025-03-08,Alimentos,Café Especial,4,21.91,87.64
+2159,2025-03-09,Eletrônicos,Smartwatch,3,389.7,1169.1
+1902,2025-03-09,Esporte e Lazer,Tênis de Corrida,3,168.75,506.25
+1813,2025-03-09,Eletrônicos,Fone Bluetooth,4,380.69,1522.76
+1542,2025-03-09,Casa e Decoração,Luminária,5,208.1,1040.5
+1821,2025-03-10,Alimentos,Chocolate,2,13.13,26.26
+1519,2025-03-10,Esporte e Lazer,Garrafa Térmica,5,181.29,906.45
+1149,2025-03-10,Vestuário,Calça Jeans,5,112.96,564.8
+1532,2025-03-10,Alimentos,Azeite Extra Virgem,2,19.56,39.12
+1106,2025-03-10,Alimentos,Chocolate,1,37.69,37.69
+1529,2025-03-11,Vestuário,Tênis,3,242.31,726.93
+1989,2025-03-11,Eletrônicos,Carregador Portátil,4,314.56,1258.24
+1526,2025-03-11,Casa e Decoração,Almofada,5,260.33,1301.65
+1878,2025-03-12,Casa e Decoração,Almofada,4,135.5,542.0
+1964,2025-03-13,Alimentos,Barra de Cereal,4,28.99,115.96
+1607,2025-03-13,Esporte e Lazer,Tênis de Corrida,5,222.57,1112.85
+1623,2025-03-14,Esporte e Lazer,Bola de Futebol,2,216.84,433.68
+2074,2025-03-14,Casa e Decoração,Luminária,1,198.14,198.14
+1702,2025-03-15,Esporte e Lazer,Tênis de Corrida,2,31.28,62.56
+1803,2025-03-15,Vestuário,Jaqueta,3,55.87,167.61
+1308,2025-03-15,Eletrônicos,Mouse Sem Fio,2,189.4,378.8
+1903,2025-03-15,Esporte e Lazer,Kit Yoga,1,99.38,99.38
+1520,2025-03-15,Esporte e Lazer,Garrafa Térmica,2,51.2,102.4
+1888,2025-03-15,Esporte e Lazer,Kit Yoga,4,174.99,699.96
+2183,2025-03-16,Vestuário,Tênis,3,76.63,229.89
+1654,2025-03-16,Eletrônicos,Smartwatch,3,243.61,730.83
+1051,2025-03-16,Eletrônicos,Mouse Sem Fio,4,367.54,1470.16
+1175,2025-03-16,Casa e Decoração,Jogo de Panelas,1,162.5,162.5
+1500,2025-03-16,Alimentos,Azeite Extra Virgem,3,59.82,179.46
+1909,2025-03-16,Esporte e Lazer,Garrafa Térmica,5,42.68,213.4
+1594,2025-03-17,Esporte e Lazer,Kit Yoga,4,333.92,1335.68
+1844,2025-03-17,Alimentos,Barra de Cereal,1,10.66,10.66
+1400,2025-03-18,Casa e Decoração,Luminária,1,171.07,171.07
+1639,2025-03-18,Alimentos,Azeite Extra Virgem,4,11.55,46.2
+1944,2025-03-18,Eletrônicos,Mouse Sem Fio,2,358.27,716.54
+1783,2025-03-19,Vestuário,Camiseta,2,131.91,263.82
+1413,2025-03-19,Esporte e Lazer,Tênis de Corrida,1,186.45,186.45
+1797,2025-03-20,Alimentos,Chocolate,5,15.07,75.35
+1314,2025-03-20,Alimentos,Azeite Extra Virgem,2,10.05,20.1
+2043,2025-03-20,Casa e Decoração,Tapete,5,254.74,1273.7
+1787,2025-03-21,Alimentos,Azeite Extra Virgem,2,50.44,100.88
+1775,2025-03-22,Eletrônicos,Carregador Portátil,2,303.11,606.22
+1296,2025-03-22,Vestuário,Tênis,5,140.92,704.6
+1386,2025-03-23,Esporte e Lazer,Tênis de Corrida,3,307.39,922.17
+1790,2025-03-24,Alimentos,Barra de Cereal,4,43.7,174.8
+1613,2025-03-25,Eletrônicos,Fone Bluetooth,4,105.66,422.64
+2173,2025-03-26,Eletrônicos,Fone Bluetooth,1,193.4,193.4
+1166,2025-03-27,Vestuário,Calça Jeans,4,88.98,355.92
+1931,2025-03-27,Casa e Decoração,Jogo de Panelas,2,122.51,245.02
+1266,2025-03-27,Vestuário,Jaqueta,5,193.51,967.55
+2133,2025-03-27,Alimentos,Café Especial,2,39.03,78.06
+1085,2025-03-27,Eletrônicos,Fone Bluetooth,4,94.72,378.88
+1985,2025-03-28,Eletrônicos,Smartwatch,1,313.51,313.51
+1471,2025-03-28,Alimentos,Café Especial,5,50.11,250.55
+2085,2025-03-28,Esporte e Lazer,Kit Yoga,4,325.38,1301.52
+1596,2025-03-28,Eletrônicos,Smartwatch,1,92.73,92.73
+1470,2025-03-28,Esporte e Lazer,Garrafa Térmica,5,37.36,186.8
+1738,2025-03-29,Vestuário,Calça Jeans,5,144.77,723.85
+1332,2025-03-29,Eletrônicos,Fone Bluetooth,4,395.73,1582.92
+2193,2025-03-29,Casa e Decoração,Almofada,1,193.31,193.31
+1937,2025-03-30,Vestuário,Jaqueta,4,203.18,812.72
+1290,2025-03-30,Eletrônicos,Mouse Sem Fio,5,109.28,546.4
+1384,2025-03-30,Esporte e Lazer,Tênis de Corrida,5,209.28,1046.4
+1745,2025-03-30,Esporte e Lazer,Kit Yoga,1,231.52,231.52
+1582,2025-03-30,Alimentos,Café Especial,3,21.32,63.96
+1498,2025-03-31,Vestuário,Calça Jeans,4,196.6,786.4
+1915,2025-03-31,Esporte e Lazer,Tênis de Corrida,2,211.1,422.2
+2004,2025-03-31,Esporte e Lazer,Tênis de Corrida,1,141.46,141.46
+1716,2025-03-31,Eletrônicos,Carregador Portátil,5,249.84,1249.2
+2132,2025-03-31,Esporte e Lazer,Bola de Futebol,4,38.09,152.36
+1096,2025-03-31,Vestuário,Jaqueta,1,144.17,144.17
+1718,2025-03-31,Casa e Decoração,Jogo de Panelas,2,271.94,543.88
+1115,2025-04-01,Vestuário,Calça Jeans,3,63.35,190.05
+1742,2025-04-01,Esporte e Lazer,Kit Yoga,1,155.9,155.9
+1575,2025-04-01,Vestuário,Tênis,4,120.14,480.56
+1826,2025-04-01,Alimentos,Barra de Cereal,2,31.37,62.74
+1990,2025-04-01,Vestuário,Camiseta,4,223.33,893.32
+2197,2025-04-03,Esporte e Lazer,Garrafa Térmica,2,264.17,528.34
+1618,2025-04-03,Alimentos,Chocolate,2,10.59,21.18
+1929,2025-04-03,Casa e Decoração,Luminária,4,125.94,503.76
+1598,2025-04-03,Esporte e Lazer,Tênis de Corrida,3,88.73,266.19
+1959,2025-04-04,Esporte e Lazer,Garrafa Térmica,1,190.94,190.94
+1086,2025-04-04,Casa e Decoração,Almofada,4,34.63,138.52
+1882,2025-04-04,Casa e Decoração,Luminária,4,231.35,925.4
+1489,2025-04-05,Alimentos,Azeite Extra Virgem,4,46.64,186.56
+1788,2025-04-05,Casa e Decoração,Tapete,2,265.28,530.56
+1330,2025-04-05,Alimentos,Café Especial,1,53.01,53.01
+2063,2025-04-05,Eletrônicos,Fone Bluetooth,3,397.43,1192.29
+1034,2025-04-06,Eletrônicos,Mouse Sem Fio,1,100.77,100.77
+2025,2025-04-06,Eletrônicos,Fone Bluetooth,2,263.37,526.74
+1776,2025-04-06,Alimentos,Barra de Cereal,1,16.1,16.1
+1933,2025-04-06,Esporte e Lazer,Garrafa Térmica,2,189.29,378.58
+1546,2025-04-07,Vestuário,Tênis,3,62.15,186.45
+1793,2025-04-07,Esporte e Lazer,Tênis de Corrida,4,156.47,625.88
+1135,2025-04-08,Eletrônicos,Carregador Portátil,1,84.38,84.38
+2141,2025-04-08,Esporte e Lazer,Garrafa Térmica,2,293.43,586.86
+1802,2025-04-08,Eletrônicos,Carregador Portátil,2,171.99,343.98
+1539,2025-04-08,Alimentos,Café Especial,4,13.11,52.44
+2169,2025-04-09,Vestuário,Jaqueta,3,136.53,409.59
+1697,2025-04-10,Esporte e Lazer,Kit Yoga,5,36.68,183.4
+1522,2025-04-10,Eletrônicos,Smartwatch,4,122.03,488.12
+1002,2025-04-10,Alimentos,Barra de Cereal,5,58.5,292.5
+1686,2025-04-10,Vestuário,Jaqueta,3,131.1,393.3
+1036,2025-04-11,Eletrônicos,Mouse Sem Fio,1,165.37,165.37
+1554,2025-04-11,Casa e Decoração,Luminária,3,268.25,804.75
+1170,2025-04-11,Casa e Decoração,Luminária,2,95.98,191.96
+1417,2025-04-12,Vestuário,Tênis,5,56.68,283.4
+1331,2025-04-12,Eletrônicos,Mouse Sem Fio,3,233.76,701.28
+1835,2025-04-12,Esporte e Lazer,Garrafa Térmica,5,47.91,239.55
+1704,2025-04-12,Eletrônicos,Mouse Sem Fio,4,83.18,332.72
+1144,2025-04-13,Casa e Decoração,Luminária,2,189.28,378.56
+1000,2025-04-13,Casa e Decoração,Almofada,3,240.52,721.56
+1268,2025-04-13,Eletrônicos,Smartwatch,3,259.42,778.26
+1707,2025-04-14,Casa e Decoração,Luminária,4,63.9,255.6
+1668,2025-04-14,Eletrônicos,Smartwatch,4,210.27,841.08
+1970,2025-04-14,Alimentos,Azeite Extra Virgem,4,39.86,159.44
+1291,2025-04-15,Alimentos,Azeite Extra Virgem,4,33.83,135.32
+1983,2025-04-15,Esporte e Lazer,Garrafa Térmica,2,258.06,516.12
+1615,2025-04-15,Vestuário,Calça Jeans,3,164.67,494.01
+1207,2025-04-16,Eletrônicos,Mouse Sem Fio,2,102.05,204.1
+1426,2025-04-16,Eletrônicos,Carregador Portátil,4,191.22,764.88
+2065,2025-04-16,Casa e Decoração,Tapete,3,64.01,192.03
+1936,2025-04-16,Esporte e Lazer,Garrafa Térmica,2,173.99,347.98
+1938,2025-04-16,Esporte e Lazer,Tênis de Corrida,1,330.64,330.64
+1147,2025-04-16,Alimentos,Café Especial,5,49.82,249.1
+1078,2025-04-16,Alimentos,Café Especial,3,31.95,95.85
+1527,2025-04-17,Casa e Decoração,Luminária,2,181.74,363.48
+1685,2025-04-17,Alimentos,Café Especial,3,53.33,159.99
+1827,2025-04-17,Eletrônicos,Carregador Portátil,1,356.86,356.86
+1285,2025-04-17,Vestuário,Camiseta,2,47.71,95.42
+1366,2025-04-17,Esporte e Lazer,Kit Yoga,5,198.39,991.95
+1831,2025-04-17,Esporte e Lazer,Kit Yoga,4,161.3,645.2
+1622,2025-04-17,Vestuário,Tênis,3,56.3,168.9
+2024,2025-04-18,Casa e Decoração,Almofada,2,257.94,515.88
+1805,2025-04-18,Alimentos,Chocolate,3,42.43,127.29
+1492,2025-04-18,Eletrônicos,Mouse Sem Fio,5,131.22,656.1
+1653,2025-04-18,Casa e Decoração,Tapete,2,162.68,325.36
+1837,2025-04-19,Casa e Decoração,Jogo de Panelas,3,247.58,742.74
+1754,2025-04-19,Casa e Decoração,Jogo de Panelas,2,270.99,541.98
+1887,2025-04-20,Esporte e Lazer,Kit Yoga,4,292.72,1170.88
+1205,2025-04-21,Casa e Decoração,Jogo de Panelas,4,57.6,230.4
+1712,2025-04-21,Alimentos,Café Especial,3,51.49,154.47
+1773,2025-04-21,Eletrônicos,Carregador Portátil,5,259.23,1296.15
+1163,2025-04-21,Alimentos,Azeite Extra Virgem,4,15.36,61.44
+1913,2025-04-22,Eletrônicos,Carregador Portátil,3,303.88,911.64
+2026,2025-04-22,Alimentos,Azeite Extra Virgem,3,51.42,154.26
+1047,2025-04-22,Eletrônicos,Mouse Sem Fio,4,163.47,653.88
+1143,2025-04-22,Esporte e Lazer,Tênis de Corrida,2,286.64,573.28
+1846,2025-04-22,Esporte e Lazer,Tênis de Corrida,5,258.59,1292.95
+1160,2025-04-23,Alimentos,Café Especial,4,20.47,81.88
+1306,2025-04-23,Eletrônicos,Fone Bluetooth,2,282.88,565.76
+2152,2025-04-23,Esporte e Lazer,Garrafa Térmica,1,132.38,132.38
+2163,2025-04-24,Eletrônicos,Carregador Portátil,3,350.0,1050.0
+1379,2025-04-24,Vestuário,Camiseta,2,222.47,444.94
+1432,2025-04-24,Esporte e Lazer,Bola de Futebol,1,53.48,53.48
+2174,2025-04-25,Alimentos,Azeite Extra Virgem,5,39.69,198.45
+1428,2025-04-25,Esporte e Lazer,Garrafa Térmica,4,104.19,416.76
+1919,2025-04-26,Alimentos,Azeite Extra Virgem,5,58.81,294.05
+1511,2025-04-26,Eletrônicos,Carregador Portátil,4,315.41,1261.64
+1543,2025-04-26,Casa e Decoração,Luminária,3,285.59,856.77
+1960,2025-04-26,Eletrônicos,Mouse Sem Fio,2,327.54,655.08
+1454,2025-04-26,Esporte e Lazer,Kit Yoga,3,159.59,478.77
+1746,2025-04-27,Alimentos,Azeite Extra Virgem,1,32.22,32.22
+1392,2025-04-27,Esporte e Lazer,Bola de Futebol,1,148.56,148.56
+1120,2025-04-27,Vestuário,Tênis,5,243.67,1218.35
+1353,2025-04-27,Vestuário,Tênis,4,223.42,893.68
+1363,2025-04-28,Vestuário,Camiseta,2,180.57,361.14
+1405,2025-04-28,Esporte e Lazer,Bola de Futebol,4,99.13,396.52
+1141,2025-04-28,Alimentos,Azeite Extra Virgem,2,52.61,105.22
+1517,2025-04-28,Esporte e Lazer,Bola de Futebol,1,327.13,327.13
+1219,2025-04-28,Casa e Decoração,Jogo de Panelas,5,79.8,399.0
+1794,2025-04-28,Alimentos,Café Especial,2,31.64,63.28
+2161,2025-04-28,Vestuário,Jaqueta,2,182.28,364.56
+1701,2025-04-28,Vestuário,Camiseta,4,60.97,243.88
+1082,2025-04-28,Eletrônicos,Mouse Sem Fio,5,169.58,847.9
+1972,2025-04-29,Esporte e Lazer,Kit Yoga,4,265.2,1060.8
+1922,2025-04-29,Eletrônicos,Mouse Sem Fio,5,99.97,499.85
+1674,2025-04-30,Alimentos,Barra de Cereal,5,39.16,195.8
+1585,2025-04-30,Esporte e Lazer,Bola de Futebol,1,117.72,117.72
+1238,2025-04-30,Alimentos,Barra de Cereal,1,34.24,34.24
+1689,2025-04-30,Vestuário,Jaqueta,5,189.74,948.7
+1031,2025-05-01,Casa e Decoração,Almofada,1,112.29,112.29
+2013,2025-05-02,Casa e Decoração,Tapete,5,148.31,741.55
+1248,2025-05-02,Vestuário,Tênis,3,78.72,236.16
+1126,2025-05-02,Casa e Decoração,Tapete,2,134.83,269.66
+1081,2025-05-02,Eletrônicos,Carregador Portátil,2,156.73,313.46
+1484,2025-05-02,Eletrônicos,Mouse Sem Fio,1,254.09,254.09
+1345,2025-05-02,Alimentos,Azeite Extra Virgem,4,47.21,188.84
+1849,2025-05-02,Vestuário,Jaqueta,4,162.25,649.0
+1198,2025-05-03,Vestuário,Camiseta,5,63.23,316.15
+1294,2025-05-04,Alimentos,Café Especial,2,36.63,73.26
+2076,2025-05-04,Casa e Decoração,Tapete,3,201.02,603.06
+1791,2025-05-04,Eletrônicos,Fone Bluetooth,4,172.04,688.16
+1645,2025-05-05,Alimentos,Café Especial,2,34.44,68.88
+1073,2025-05-05,Vestuário,Calça Jeans,1,47.84,47.84
+1930,2025-05-05,Esporte e Lazer,Garrafa Térmica,4,93.41,373.64
+1355,2025-05-05,Casa e Decoração,Jogo de Panelas,5,155.77,778.85
+2187,2025-05-06,Alimentos,Barra de Cereal,1,25.8,25.8
+1150,2025-05-06,Alimentos,Azeite Extra Virgem,3,13.79,41.37
+1662,2025-05-06,Esporte e Lazer,Garrafa Térmica,4,286.44,1145.76
+1630,2025-05-06,Alimentos,Café Especial,1,43.86,43.86
+1038,2025-05-06,Vestuário,Camiseta,4,134.03,536.12
+1848,2025-05-06,Alimentos,Chocolate,2,54.08,108.16
+1080,2025-05-07,Eletrônicos,Mouse Sem Fio,5,98.62,493.1
+1824,2025-05-07,Alimentos,Chocolate,3,24.17,72.51
+1612,2025-05-07,Casa e Decoração,Luminária,5,62.68,313.4
+1606,2025-05-07,Esporte e Lazer,Tênis de Corrida,4,262.2,1048.8
+2081,2025-05-07,Esporte e Lazer,Garrafa Térmica,1,125.06,125.06
+1161,2025-05-07,Vestuário,Tênis,2,196.97,393.94
+1445,2025-05-08,Casa e Decoração,Almofada,4,148.67,594.68
+1834,2025-05-09,Alimentos,Barra de Cereal,2,30.44,60.88
+1838,2025-05-09,Casa e Decoração,Tapete,4,149.69,598.76
+1387,2025-05-09,Eletrônicos,Fone Bluetooth,1,197.27,197.27
+2092,2025-05-09,Casa e Decoração,Tapete,3,254.03,762.09
+2095,2025-05-09,Eletrônicos,Smartwatch,5,355.06,1775.3
+1317,2025-05-10,Casa e Decoração,Luminária,3,103.78,311.34
+1465,2025-05-10,Casa e Decoração,Tapete,5,105.43,527.15
+1201,2025-05-10,Alimentos,Azeite Extra Virgem,3,44.7,134.1
+1423,2025-05-10,Casa e Decoração,Luminária,1,298.78,298.78
+1558,2025-05-11,Eletrônicos,Mouse Sem Fio,1,343.35,343.35
+1563,2025-05-11,Casa e Decoração,Tapete,2,95.97,191.94
+1050,2025-05-11,Casa e Decoração,Tapete,1,203.35,203.35
+1007,2025-05-11,Esporte e Lazer,Kit Yoga,5,171.41,857.05
+1022,2025-05-11,Eletrônicos,Fone Bluetooth,2,155.52,311.04
+1755,2025-05-12,Vestuário,Tênis,2,82.98,165.96
+1501,2025-05-12,Esporte e Lazer,Garrafa Térmica,4,278.63,1114.52
+1709,2025-05-14,Esporte e Lazer,Tênis de Corrida,1,265.18,265.18
+2142,2025-05-14,Vestuário,Camiseta,1,43.06,43.06
+1847,2025-05-14,Casa e Decoração,Luminária,1,123.21,123.21
+1028,2025-05-14,Casa e Decoração,Tapete,4,80.37,321.48
+1056,2025-05-15,Alimentos,Café Especial,1,37.13,37.13
+1419,2025-05-16,Eletrônicos,Carregador Portátil,1,277.49,277.49
+1427,2025-05-16,Casa e Decoração,Jogo de Panelas,5,62.35,311.75
+1017,2025-05-16,Alimentos,Azeite Extra Virgem,1,45.57,45.57
+1476,2025-05-16,Eletrônicos,Fone Bluetooth,2,293.55,587.1
+1186,2025-05-17,Vestuário,Tênis,3,53.96,161.88
+2057,2025-05-17,Vestuário,Jaqueta,4,245.23,980.92
+1962,2025-05-17,Eletrônicos,Mouse Sem Fio,3,321.19,963.57
+1739,2025-05-17,Esporte e Lazer,Bola de Futebol,4,141.03,564.12
+2120,2025-05-18,Eletrônicos,Carregador Portátil,5,115.59,577.95
+2060,2025-05-18,Vestuário,Calça Jeans,4,179.73,718.92
+1814,2025-05-18,Casa e Decoração,Almofada,5,196.66,983.3
+1148,2025-05-18,Eletrônicos,Smartwatch,1,162.64,162.64
+1567,2025-05-19,Alimentos,Azeite Extra Virgem,1,16.31,16.31
+1865,2025-05-19,Esporte e Lazer,Bola de Futebol,1,286.15,286.15
+2109,2025-05-20,Alimentos,Azeite Extra Virgem,5,36.49,182.45
+1692,2025-05-20,Esporte e Lazer,Bola de Futebol,1,142.02,142.02
+2100,2025-05-21,Esporte e Lazer,Garrafa Térmica,1,117.48,117.48
+1278,2025-05-22,Vestuário,Tênis,2,89.06,178.12
+1382,2025-05-22,Esporte e Lazer,Garrafa Térmica,5,212.59,1062.95
+1531,2025-05-22,Eletrônicos,Fone Bluetooth,2,393.46,786.92
+1530,2025-05-23,Esporte e Lazer,Bola de Futebol,2,161.11,322.22
+1435,2025-05-23,Casa e Decoração,Almofada,4,86.3,345.2
+1614,2025-05-23,Eletrônicos,Carregador Portátil,2,293.94,587.88
+1071,2025-05-23,Casa e Decoração,Luminária,2,148.39,296.78
+1192,2025-05-23,Eletrônicos,Fone Bluetooth,1,367.86,367.86
+1337,2025-05-23,Vestuário,Calça Jeans,4,61.96,247.84
+1222,2025-05-24,Alimentos,Barra de Cereal,1,48.78,48.78
+1861,2025-05-24,Eletrônicos,Smartwatch,4,303.13,1212.52
+1399,2025-05-24,Vestuário,Tênis,2,123.98,247.96
+1360,2025-05-25,Alimentos,Café Especial,1,29.95,29.95
+1935,2025-05-25,Eletrônicos,Carregador Portátil,2,343.16,686.32
+1323,2025-05-25,Esporte e Lazer,Tênis de Corrida,3,299.55,898.65
+1694,2025-05-26,Alimentos,Chocolate,1,12.62,12.62
+2126,2025-05-26,Casa e Decoração,Tapete,5,68.74,343.7
+1649,2025-05-27,Alimentos,Café Especial,2,46.11,92.22
+2054,2025-05-28,Eletrônicos,Mouse Sem Fio,4,113.79,455.16
+1117,2025-05-28,Casa e Decoração,Tapete,5,252.15,1260.75
+1587,2025-05-29,Esporte e Lazer,Garrafa Térmica,4,96.57,386.28
+1262,2025-05-29,Eletrônicos,Carregador Portátil,5,301.53,1507.65
+1485,2025-05-29,Esporte e Lazer,Bola de Futebol,5,342.98,1714.9
+1211,2025-05-29,Eletrônicos,Fone Bluetooth,1,145.79,145.79
+1986,2025-05-29,Eletrônicos,Mouse Sem Fio,1,343.2,343.2
+1753,2025-05-29,Alimentos,Chocolate,2,51.98,103.96
+1699,2025-05-29,Casa e Decoração,Tapete,1,270.36,270.36
+2084,2025-05-29,Alimentos,Barra de Cereal,4,26.18,104.72
+1450,2025-05-29,Eletrônicos,Mouse Sem Fio,3,136.89,410.67
+1172,2025-05-30,Esporte e Lazer,Bola de Futebol,4,301.52,1206.08
+1487,2025-05-30,Alimentos,Café Especial,4,12.16,48.64
+1046,2025-05-31,Vestuário,Jaqueta,4,76.74,306.96
+2166,2025-05-31,Alimentos,Barra de Cereal,4,46.54,186.16
+2023,2025-05-31,Esporte e Lazer,Bola de Futebol,2,102.07,204.14
+1252,2025-06-01,Esporte e Lazer,Garrafa Térmica,1,112.72,112.72
+1472,2025-06-01,Eletrônicos,Fone Bluetooth,4,316.0,1264.0
+1663,2025-06-01,Alimentos,Chocolate,1,49.67,49.67
+1279,2025-06-02,Eletrônicos,Fone Bluetooth,1,115.03,115.03
+1244,2025-06-02,Vestuário,Tênis,5,42.31,211.55
+1326,2025-06-02,Eletrônicos,Smartwatch,4,159.21,636.84
+1559,2025-06-03,Esporte e Lazer,Kit Yoga,5,134.47,672.35
+1241,2025-06-03,Vestuário,Camiseta,5,185.16,925.8
+1255,2025-06-03,Vestuário,Camiseta,1,55.78,55.78
+1336,2025-06-03,Vestuário,Calça Jeans,2,184.79,369.58
+1634,2025-06-03,Alimentos,Barra de Cereal,3,29.4,88.2
+1920,2025-06-04,Esporte e Lazer,Kit Yoga,1,349.1,349.1
+1740,2025-06-05,Vestuário,Jaqueta,3,49.67,149.01
+1569,2025-06-05,Eletrônicos,Mouse Sem Fio,4,397.36,1589.44
+1564,2025-06-05,Vestuário,Calça Jeans,1,90.37,90.37
+1200,2025-06-06,Esporte e Lazer,Tênis de Corrida,4,259.73,1038.92
+1196,2025-06-06,Eletrônicos,Fone Bluetooth,5,159.52,797.6
+1437,2025-06-07,Vestuário,Calça Jeans,3,205.91,617.73
+2129,2025-06-07,Alimentos,Barra de Cereal,4,55.79,223.16
+2058,2025-06-08,Alimentos,Café Especial,5,53.31,266.55
+1874,2025-06-08,Casa e Decoração,Luminária,5,57.99,289.95
+1333,2025-06-09,Casa e Decoração,Tapete,1,181.11,181.11
+2158,2025-06-09,Eletrônicos,Mouse Sem Fio,4,265.48,1061.92
+1289,2025-06-09,Alimentos,Barra de Cereal,5,21.19,105.95
+1153,2025-06-09,Vestuário,Camiseta,2,87.01,174.02
+2073,2025-06-09,Vestuário,Camiseta,2,126.39,252.78
+1890,2025-06-10,Casa e Decoração,Tapete,1,155.28,155.28
+1534,2025-06-10,Vestuário,Camiseta,4,127.78,511.12
+1064,2025-06-10,Alimentos,Chocolate,2,37.84,75.68
+1595,2025-06-11,Alimentos,Azeite Extra Virgem,1,35.31,35.31
+1771,2025-06-11,Eletrônicos,Fone Bluetooth,3,281.1,843.3
+1850,2025-06-11,Eletrônicos,Smartwatch,4,179.52,718.08
+1641,2025-06-11,Esporte e Lazer,Bola de Futebol,5,295.94,1479.7
+1226,2025-06-11,Casa e Decoração,Almofada,4,256.74,1026.96
+1054,2025-06-12,Esporte e Lazer,Tênis de Corrida,4,256.46,1025.84
+1664,2025-06-12,Alimentos,Barra de Cereal,2,51.42,102.84
+1361,2025-06-12,Esporte e Lazer,Tênis de Corrida,1,276.38,276.38
+2015,2025-06-13,Esporte e Lazer,Bola de Futebol,2,199.78,399.56
+2082,2025-06-13,Casa e Decoração,Luminária,3,98.48,295.44
+1362,2025-06-13,Esporte e Lazer,Kit Yoga,3,312.21,936.63
+2115,2025-06-13,Alimentos,Barra de Cereal,4,59.89,239.56
+1479,2025-06-13,Casa e Decoração,Jogo de Panelas,2,192.51,385.02
+1146,2025-06-15,Eletrônicos,Mouse Sem Fio,4,175.35,701.4
+1907,2025-06-15,Eletrônicos,Smartwatch,3,383.74,1151.22
+1851,2025-06-16,Alimentos,Barra de Cereal,4,38.6,154.4
+1777,2025-06-16,Esporte e Lazer,Bola de Futebol,1,114.07,114.07
+1796,2025-06-16,Casa e Decoração,Almofada,5,241.91,1209.55
+1544,2025-06-17,Vestuário,Tênis,2,157.18,314.36
+1764,2025-06-17,Esporte e Lazer,Tênis de Corrida,4,99.89,399.56
+1785,2025-06-17,Alimentos,Café Especial,1,25.44,25.44
+1093,2025-06-17,Vestuário,Jaqueta,4,97.53,390.12
+1478,2025-06-18,Eletrônicos,Smartwatch,2,183.11,366.22
+1730,2025-06-18,Casa e Decoração,Jogo de Panelas,4,298.6,1194.4
+1637,2025-06-19,Casa e Decoração,Almofada,3,269.87,809.61
+1819,2025-06-19,Vestuário,Tênis,5,59.19,295.95
+1407,2025-06-19,Eletrônicos,Smartwatch,3,329.77,989.31
+1741,2025-06-19,Casa e Decoração,Tapete,2,168.96,337.92
+1705,2025-06-20,Eletrônicos,Mouse Sem Fio,2,246.09,492.18
+1966,2025-06-20,Eletrônicos,Fone Bluetooth,2,296.77,593.54
+1490,2025-06-20,Esporte e Lazer,Tênis de Corrida,1,190.22,190.22
+1625,2025-06-21,Eletrônicos,Carregador Portátil,3,266.3,798.9
+1588,2025-06-21,Eletrônicos,Fone Bluetooth,5,248.08,1240.4
+1650,2025-06-22,Casa e Decoração,Luminária,5,231.38,1156.9
+1177,2025-06-22,Casa e Decoração,Almofada,2,117.39,234.78
+1670,2025-06-22,Vestuário,Camiseta,5,61.2,306.0
+1116,2025-06-22,Esporte e Lazer,Bola de Futebol,4,210.73,842.92
+1247,2025-06-22,Eletrônicos,Smartwatch,5,202.6,1013.0
+1459,2025-06-22,Casa e Decoração,Almofada,3,101.78,305.34
+1404,2025-06-22,Vestuário,Jaqueta,3,40.54,121.62
+1825,2025-06-23,Alimentos,Barra de Cereal,1,22.67,22.67
+1591,2025-06-23,Eletrônicos,Carregador Portátil,2,132.74,265.48
+1378,2025-06-24,Vestuário,Camiseta,2,118.6,237.2
+1223,2025-06-24,Vestuário,Calça Jeans,4,141.03,564.12
+1895,2025-06-25,Alimentos,Chocolate,4,26.33,105.32
+1267,2025-06-25,Vestuário,Jaqueta,5,139.58,697.9
+1537,2025-06-26,Eletrônicos,Smartwatch,2,235.1,470.2
+1841,2025-06-26,Vestuário,Calça Jeans,1,106.91,106.91
+1687,2025-06-26,Casa e Decoração,Jogo de Panelas,5,61.33,306.65
+1816,2025-06-27,Alimentos,Chocolate,3,14.22,42.66
+1288,2025-06-27,Vestuário,Calça Jeans,1,72.32,72.32
+1340,2025-06-27,Casa e Decoração,Luminária,4,121.65,486.6
+1181,2025-06-27,Vestuário,Camiseta,2,247.89,495.78
+1765,2025-06-28,Casa e Decoração,Tapete,4,90.56,362.24
+1024,2025-06-28,Eletrônicos,Mouse Sem Fio,5,242.74,1213.7
+1593,2025-06-28,Casa e Decoração,Jogo de Panelas,4,58.14,232.56
+1092,2025-06-28,Alimentos,Café Especial,4,29.31,117.24
+2168,2025-06-29,Esporte e Lazer,Bola de Futebol,1,336.09,336.09
+1565,2025-06-29,Vestuário,Camiseta,3,134.57,403.71
+2047,2025-06-29,Casa e Decoração,Almofada,5,226.43,1132.15
+1992,2025-06-29,Eletrônicos,Mouse Sem Fio,3,336.31,1008.93
+1249,2025-06-30,Casa e Decoração,Jogo de Panelas,2,48.43,96.86
+1748,2025-06-30,Alimentos,Barra de Cereal,4,52.36,209.44
+1761,2025-06-30,Casa e Decoração,Jogo de Panelas,5,40.14,200.7
+1708,2025-06-30,Vestuário,Jaqueta,1,65.24,65.24
+1720,2025-06-30,Casa e Decoração,Jogo de Panelas,4,203.56,814.24
+1480,2025-06-30,Casa e Decoração,Luminária,3,41.81,125.43
+2118,2025-06-30,Casa e Decoração,Luminária,1,283.94,283.94
+1301,2025-06-30,Vestuário,Tênis,3,198.07,594.21
+2189,2025-07-01,Alimentos,Café Especial,1,26.37,26.37
+1231,2025-07-01,Esporte e Lazer,Bola de Futebol,2,29.23,58.46
+1210,2025-07-01,Eletrônicos,Fone Bluetooth,3,269.21,807.63
+1101,2025-07-02,Esporte e Lazer,Kit Yoga,1,102.43,102.43
+1510,2025-07-02,Eletrônicos,Carregador Portátil,1,108.35,108.35
+1270,2025-07-02,Casa e Decoração,Jogo de Panelas,1,175.37,175.37
+1152,2025-07-03,Eletrônicos,Carregador Portátil,3,244.88,734.64
+1979,2025-07-03,Casa e Decoração,Jogo de Panelas,5,150.61,753.05
+1768,2025-07-04,Alimentos,Azeite Extra Virgem,4,59.24,236.96
+1999,2025-07-05,Esporte e Lazer,Garrafa Térmica,2,41.36,82.72
+1108,2025-07-05,Vestuário,Camiseta,3,226.42,679.26
+2139,2025-07-05,Eletrônicos,Mouse Sem Fio,3,143.0,429.0
+1946,2025-07-06,Casa e Decoração,Almofada,3,89.05,267.15
+1893,2025-07-06,Esporte e Lazer,Kit Yoga,5,293.26,1466.3
+2040,2025-07-06,Vestuário,Tênis,1,205.35,205.35
+1830,2025-07-07,Vestuário,Tênis,4,152.36,609.44
+1722,2025-07-07,Eletrônicos,Carregador Portátil,1,300.8,300.8
+1507,2025-07-07,Casa e Decoração,Jogo de Panelas,1,201.85,201.85
+1015,2025-07-07,Casa e Decoração,Almofada,1,109.99,109.99
+1343,2025-07-07,Vestuário,Calça Jeans,3,192.21,576.63
+2154,2025-07-07,Vestuário,Calça Jeans,1,74.88,74.88
+2097,2025-07-07,Alimentos,Café Especial,3,15.98,47.94
+1063,2025-07-07,Eletrônicos,Mouse Sem Fio,5,203.23,1016.15
+2198,2025-07-08,Eletrônicos,Mouse Sem Fio,3,95.75,287.25
+1908,2025-07-08,Vestuário,Jaqueta,2,63.11,126.22
+2089,2025-07-09,Esporte e Lazer,Kit Yoga,4,208.87,835.48
+1576,2025-07-09,Alimentos,Azeite Extra Virgem,3,31.13,93.39
+1434,2025-07-09,Vestuário,Tênis,2,148.29,296.58
+2017,2025-07-09,Casa e Decoração,Almofada,2,75.41,150.82
+1012,2025-07-10,Vestuário,Calça Jeans,4,237.29,949.16
+1460,2025-07-10,Esporte e Lazer,Garrafa Térmica,5,183.68,918.4
+1491,2025-07-10,Alimentos,Azeite Extra Virgem,5,14.69,73.45
+2002,2025-07-10,Vestuário,Calça Jeans,2,212.95,425.9
+1119,2025-07-10,Casa e Decoração,Almofada,1,264.52,264.52
+1602,2025-07-11,Vestuário,Jaqueta,1,123.37,123.37
+1464,2025-07-11,Eletrônicos,Mouse Sem Fio,1,381.71,381.71
+1605,2025-07-11,Alimentos,Barra de Cereal,3,32.53,97.59
+1751,2025-07-12,Eletrônicos,Smartwatch,2,297.46,594.92
+1311,2025-07-12,Vestuário,Tênis,3,219.01,657.03
+1292,2025-07-14,Eletrônicos,Smartwatch,4,91.34,365.36
+1982,2025-07-14,Vestuário,Jaqueta,1,41.44,41.44
+1235,2025-07-14,Casa e Decoração,Tapete,5,123.2,616.0
+1714,2025-07-14,Esporte e Lazer,Tênis de Corrida,5,105.15,525.75
+1461,2025-07-15,Vestuário,Tênis,4,176.86,707.44
+1076,2025-07-15,Esporte e Lazer,Garrafa Térmica,4,158.69,634.76
+1638,2025-07-15,Vestuário,Tênis,1,246.64,246.64
+1131,2025-07-16,Eletrônicos,Smartwatch,2,378.47,756.94
+1905,2025-07-16,Alimentos,Café Especial,3,32.15,96.45
+1548,2025-07-16,Alimentos,Azeite Extra Virgem,4,36.17,144.68
+1901,2025-07-16,Esporte e Lazer,Tênis de Corrida,2,151.94,303.88
+1032,2025-07-17,Alimentos,Café Especial,5,44.62,223.1
+1039,2025-07-17,Casa e Decoração,Jogo de Panelas,3,129.81,389.43
+1216,2025-07-17,Esporte e Lazer,Garrafa Térmica,1,142.78,142.78
+2009,2025-07-17,Alimentos,Chocolate,2,58.56,117.12
+1513,2025-07-17,Casa e Decoração,Tapete,3,215.2,645.6
+1263,2025-07-17,Eletrônicos,Smartwatch,1,286.93,286.93
+1324,2025-07-18,Alimentos,Café Especial,4,11.63,46.52
+1283,2025-07-18,Casa e Decoração,Tapete,3,138.43,415.29
+1044,2025-07-18,Casa e Decoração,Almofada,1,137.34,137.34
+1388,2025-07-18,Esporte e Lazer,Kit Yoga,4,203.26,813.04
+2102,2025-07-19,Vestuário,Calça Jeans,3,140.48,421.44
+1940,2025-07-20,Casa e Decoração,Tapete,3,207.68,623.04
+2090,2025-07-20,Esporte e Lazer,Bola de Futebol,1,149.81,149.81
+1667,2025-07-20,Eletrônicos,Mouse Sem Fio,3,276.35,829.05
+1836,2025-07-21,Casa e Decoração,Almofada,2,268.06,536.12
+1629,2025-07-21,Casa e Decoração,Luminária,4,31.81,127.24
+1138,2025-07-21,Vestuário,Jaqueta,1,90.63,90.63
+1348,2025-07-21,Alimentos,Azeite Extra Virgem,5,13.61,68.05
+1715,2025-07-24,Casa e Decoração,Jogo de Panelas,4,45.62,182.48
+1997,2025-07-24,Alimentos,Chocolate,5,22.31,111.55
+1105,2025-07-25,Casa e Decoração,Jogo de Panelas,2,200.6,401.2
+1372,2025-07-25,Casa e Decoração,Luminária,4,296.39,1185.56
+1579,2025-07-25,Eletrônicos,Carregador Portátil,4,345.41,1381.64
+1349,2025-07-26,Eletrônicos,Carregador Portátil,4,135.74,542.96
+1860,2025-07-26,Esporte e Lazer,Tênis de Corrida,3,248.81,746.43
+1368,2025-07-26,Casa e Decoração,Jogo de Panelas,5,39.23,196.15
+1963,2025-07-27,Eletrônicos,Mouse Sem Fio,4,311.87,1247.48
+1978,2025-07-27,Vestuário,Tênis,4,74.63,298.52
+2116,2025-07-27,Casa e Decoração,Almofada,5,61.09,305.45
+1322,2025-07-27,Alimentos,Chocolate,4,19.28,77.12
+2153,2025-07-27,Eletrônicos,Fone Bluetooth,2,134.36,268.72
+1239,2025-07-28,Eletrônicos,Mouse Sem Fio,2,282.71,565.42
+2003,2025-07-28,Alimentos,Café Especial,1,26.41,26.41
+2195,2025-07-28,Alimentos,Café Especial,4,45.35,181.4
+1271,2025-07-29,Eletrônicos,Mouse Sem Fio,5,277.08,1385.4
+1574,2025-07-29,Alimentos,Café Especial,3,10.01,30.03
+1214,2025-07-29,Alimentos,Barra de Cereal,3,32.61,97.83
+2104,2025-07-30,Alimentos,Chocolate,3,41.89,125.67
+1347,2025-07-30,Esporte e Lazer,Garrafa Térmica,1,185.31,185.31
+1508,2025-07-30,Esporte e Lazer,Garrafa Térmica,2,255.0,510.0
+1904,2025-07-30,Alimentos,Barra de Cereal,2,27.1,54.2
+1221,2025-07-30,Esporte e Lazer,Tênis de Corrida,5,147.76,738.8
+1921,2025-07-31,Esporte e Lazer,Bola de Futebol,1,227.35,227.35
+1129,2025-07-31,Esporte e Lazer,Garrafa Térmica,5,68.29,341.45
+2098,2025-07-31,Esporte e Lazer,Garrafa Térmica,1,286.33,286.33
+1350,2025-08-01,Vestuário,Camiseta,4,172.04,688.16
+1189,2025-08-01,Esporte e Lazer,Tênis de Corrida,3,241.19,723.57
+1483,2025-08-01,Casa e Decoração,Tapete,3,269.47,808.41
+1833,2025-08-02,Esporte e Lazer,Kit Yoga,4,93.26,373.04
+2037,2025-08-02,Esporte e Lazer,Kit Yoga,1,100.23,100.23
+1772,2025-08-02,Eletrônicos,Fone Bluetooth,4,383.75,1535.0
+1468,2025-08-02,Eletrônicos,Carregador Portátil,1,101.33,101.33
+1879,2025-08-03,Alimentos,Café Especial,2,54.46,108.92
+2113,2025-08-03,Esporte e Lazer,Kit Yoga,2,214.98,429.96
+1095,2025-08-03,Eletrônicos,Smartwatch,5,350.36,1751.8
+1784,2025-08-04,Alimentos,Café Especial,3,45.31,135.93
+1373,2025-08-04,Alimentos,Azeite Extra Virgem,2,26.16,52.32
+1299,2025-08-04,Alimentos,Chocolate,4,52.53,210.12
+1698,2025-08-04,Casa e Decoração,Luminária,3,115.22,345.66
+2008,2025-08-05,Vestuário,Calça Jeans,5,105.48,527.4
+1713,2025-08-05,Esporte e Lazer,Bola de Futebol,3,123.45,370.35
+1098,2025-08-05,Esporte e Lazer,Tênis de Corrida,1,203.09,203.09
+2117,2025-08-05,Alimentos,Barra de Cereal,2,40.7,81.4
+1973,2025-08-06,Eletrônicos,Carregador Portátil,4,388.28,1553.12
+1688,2025-08-06,Esporte e Lazer,Tênis de Corrida,4,230.63,922.52
+1939,2025-08-06,Alimentos,Café Especial,2,33.54,67.08
+1204,2025-08-06,Esporte e Lazer,Garrafa Térmica,2,223.72,447.44
+1799,2025-08-06,Esporte e Lazer,Bola de Futebol,1,58.51,58.51
+1157,2025-08-06,Esporte e Lazer,Kit Yoga,1,54.99,54.99
+1801,2025-08-07,Eletrônicos,Mouse Sem Fio,3,273.75,821.25
+1656,2025-08-07,Vestuário,Tênis,3,166.44,499.32
+1383,2025-08-08,Vestuário,Calça Jeans,1,221.95,221.95
+1525,2025-08-08,Vestuário,Tênis,2,217.41,434.82
+1998,2025-08-08,Vestuário,Calça Jeans,1,46.67,46.67
+1351,2025-08-08,Casa e Decoração,Luminária,4,166.31,665.24
+1752,2025-08-09,Casa e Decoração,Almofada,3,182.1,546.3
+1870,2025-08-09,Alimentos,Azeite Extra Virgem,3,27.53,82.59
+1756,2025-08-09,Eletrônicos,Mouse Sem Fio,3,270.02,810.06
+1346,2025-08-09,Esporte e Lazer,Kit Yoga,3,77.54,232.62
+2188,2025-08-09,Alimentos,Azeite Extra Virgem,3,40.58,121.74
+2022,2025-08-09,Casa e Decoração,Luminária,3,271.27,813.81
+1224,2025-08-10,Alimentos,Azeite Extra Virgem,4,19.1,76.4
+1025,2025-08-10,Esporte e Lazer,Kit Yoga,5,200.45,1002.25
+1886,2025-08-10,Esporte e Lazer,Tênis de Corrida,5,293.42,1467.1
+1557,2025-08-11,Alimentos,Azeite Extra Virgem,3,44.34,133.02
+1727,2025-08-11,Alimentos,Barra de Cereal,5,34.07,170.35
+1065,2025-08-11,Vestuário,Jaqueta,2,169.15,338.3
+1640,2025-08-12,Casa e Decoração,Almofada,5,159.03,795.15
+2031,2025-08-13,Vestuário,Camiseta,3,237.09,711.27
+2070,2025-08-13,Esporte e Lazer,Garrafa Térmica,1,236.98,236.98
+1659,2025-08-13,Alimentos,Azeite Extra Virgem,3,32.42,97.26
+1411,2025-08-14,Eletrônicos,Carregador Portátil,5,110.63,553.15
+2036,2025-08-14,Vestuário,Jaqueta,3,44.98,134.94
+2075,2025-08-14,Casa e Decoração,Jogo de Panelas,4,239.91,959.64
+1315,2025-08-14,Esporte e Lazer,Garrafa Térmica,1,58.21,58.21
+1431,2025-08-14,Esporte e Lazer,Bola de Futebol,4,123.52,494.08
+1725,2025-08-14,Esporte e Lazer,Bola de Futebol,5,337.75,1688.75
+1274,2025-08-15,Alimentos,Azeite Extra Virgem,4,12.63,50.52
+1462,2025-08-15,Eletrônicos,Fone Bluetooth,4,355.06,1420.24
+1502,2025-08-15,Vestuário,Camiseta,5,40.39,201.95
+1199,2025-08-16,Esporte e Lazer,Garrafa Térmica,4,154.12,616.48
+2048,2025-08-16,Casa e Decoração,Jogo de Panelas,5,184.44,922.2
+1128,2025-08-16,Alimentos,Barra de Cereal,1,23.99,23.99
+1956,2025-08-17,Eletrônicos,Mouse Sem Fio,1,304.8,304.8
+1122,2025-08-17,Casa e Decoração,Jogo de Panelas,3,291.71,875.13
+1258,2025-08-17,Casa e Decoração,Tapete,3,103.48,310.44
+1706,2025-08-18,Eletrônicos,Mouse Sem Fio,4,165.52,662.08
+1916,2025-08-18,Vestuário,Tênis,2,195.52,391.04
+1804,2025-08-18,Casa e Decoração,Jogo de Panelas,1,54.86,54.86
+2106,2025-08-18,Eletrônicos,Smartwatch,4,367.34,1469.36
+1521,2025-08-19,Vestuário,Jaqueta,1,203.84,203.84
+1030,2025-08-19,Eletrônicos,Fone Bluetooth,1,287.26,287.26
+1592,2025-08-20,Esporte e Lazer,Kit Yoga,4,281.36,1125.44
+1418,2025-08-20,Esporte e Lazer,Tênis de Corrida,4,87.36,349.44
+1965,2025-08-20,Vestuário,Calça Jeans,3,197.66,592.98
+2107,2025-08-20,Alimentos,Chocolate,3,55.39,166.17
+1380,2025-08-20,Eletrônicos,Mouse Sem Fio,3,377.9,1133.7
+1168,2025-08-21,Esporte e Lazer,Bola de Futebol,4,199.56,798.24
+2165,2025-08-21,Eletrônicos,Carregador Portátil,3,393.03,1179.09
+1104,2025-08-21,Alimentos,Chocolate,1,25.97,25.97
+1335,2025-08-21,Esporte e Lazer,Bola de Futebol,1,292.97,292.97
+1672,2025-08-22,Casa e Decoração,Tapete,4,69.2,276.8
+1839,2025-08-22,Eletrônicos,Fone Bluetooth,5,193.21,966.05
+1635,2025-08-22,Alimentos,Barra de Cereal,3,17.35,52.05
+1376,2025-08-22,Casa e Decoração,Jogo de Panelas,2,80.85,161.7
+1033,2025-08-22,Casa e Decoração,Tapete,3,117.26,351.78
+1873,2025-08-23,Vestuário,Calça Jeans,1,118.38,118.38
+1109,2025-08-23,Alimentos,Barra de Cereal,4,44.4,177.6
+1728,2025-08-23,Casa e Decoração,Almofada,1,294.92,294.92
+1276,2025-08-24,Eletrônicos,Smartwatch,1,187.64,187.64
+1185,2025-08-24,Vestuário,Calça Jeans,5,193.48,967.4
+2018,2025-08-25,Vestuário,Jaqueta,3,88.59,265.77
+2034,2025-08-25,Eletrônicos,Smartwatch,2,106.92,213.84
+1947,2025-08-25,Vestuário,Tênis,5,161.09,805.45
+1934,2025-08-26,Alimentos,Chocolate,4,34.39,137.56
+1253,2025-08-27,Casa e Decoração,Jogo de Panelas,3,257.21,771.63
+2016,2025-08-27,Casa e Decoração,Tapete,3,37.87,113.61
+1766,2025-08-27,Eletrônicos,Fone Bluetooth,5,215.24,1076.2
+1657,2025-08-27,Casa e Decoração,Jogo de Panelas,5,158.65,793.25
+1436,2025-08-27,Eletrônicos,Smartwatch,2,280.94,561.88
+1855,2025-08-27,Esporte e Lazer,Garrafa Térmica,1,186.1,186.1
+2041,2025-08-27,Vestuário,Tênis,4,123.51,494.04
+1357,2025-08-28,Vestuário,Tênis,2,78.01,156.02
+1608,2025-08-28,Eletrônicos,Fone Bluetooth,2,385.62,771.24
+1041,2025-08-28,Eletrônicos,Fone Bluetooth,4,242.62,970.48
+2185,2025-08-29,Casa e Decoração,Almofada,5,98.48,492.4
+1774,2025-08-29,Eletrônicos,Carregador Portátil,1,135.07,135.07
+1410,2025-08-30,Esporte e Lazer,Kit Yoga,1,264.48,264.48
+1132,2025-08-30,Alimentos,Café Especial,5,11.32,56.6
+2072,2025-08-30,Alimentos,Azeite Extra Virgem,1,59.85,59.85
+1310,2025-08-30,Casa e Decoração,Jogo de Panelas,1,238.17,238.17
+1334,2025-08-30,Casa e Decoração,Almofada,2,174.25,348.5
+1912,2025-08-30,Eletrônicos,Fone Bluetooth,2,86.13,172.26
+1458,2025-08-30,Esporte e Lazer,Tênis de Corrida,5,285.5,1427.5
+1466,2025-08-30,Vestuário,Tênis,4,204.05,816.2
+2099,2025-08-31,Alimentos,Barra de Cereal,3,40.96,122.88
+1541,2025-08-31,Eletrônicos,Mouse Sem Fio,5,132.71,663.55
+2125,2025-09-01,Alimentos,Azeite Extra Virgem,3,39.64,118.92
+1213,2025-09-01,Eletrônicos,Smartwatch,3,375.35,1126.05
+1371,2025-09-02,Alimentos,Café Especial,1,35.36,35.36
+1820,2025-09-02,Casa e Decoração,Jogo de Panelas,1,87.89,87.89
+1880,2025-09-02,Vestuário,Tênis,2,127.14,254.28
+1636,2025-09-02,Vestuário,Camiseta,2,64.39,128.78
+2042,2025-09-03,Vestuário,Calça Jeans,3,152.43,457.29
+1570,2025-09-04,Alimentos,Chocolate,2,35.63,71.26
+1948,2025-09-04,Eletrônicos,Smartwatch,3,380.45,1141.35
+1084,2025-09-04,Alimentos,Chocolate,2,27.8,55.6
+1975,2025-09-04,Casa e Decoração,Luminária,3,114.21,342.63
+1273,2025-09-04,Esporte e Lazer,Tênis de Corrida,2,330.2,660.4
+1818,2025-09-05,Casa e Decoração,Almofada,3,202.18,606.54
+1744,2025-09-05,Alimentos,Barra de Cereal,3,34.73,104.19
+1151,2025-09-06,Alimentos,Barra de Cereal,4,19.09,76.36
+1941,2025-09-06,Alimentos,Chocolate,2,16.16,32.32
+1647,2025-09-06,Vestuário,Jaqueta,5,193.47,967.35
+1655,2025-09-06,Alimentos,Barra de Cereal,1,53.28,53.28
+1763,2025-09-06,Casa e Decoração,Luminária,5,225.24,1126.2
+1433,2025-09-06,Eletrônicos,Fone Bluetooth,3,344.09,1032.27
+1089,2025-09-07,Alimentos,Barra de Cereal,1,36.97,36.97
+1609,2025-09-07,Esporte e Lazer,Garrafa Térmica,1,231.83,231.83
+1778,2025-09-08,Eletrônicos,Fone Bluetooth,1,190.51,190.51
+1926,2025-09-08,Casa e Decoração,Luminária,2,50.2,100.4
+1341,2025-09-08,Alimentos,Chocolate,4,39.87,159.48
+2143,2025-09-08,Casa e Decoração,Tapete,4,33.87,135.48
+1451,2025-09-09,Eletrônicos,Mouse Sem Fio,4,398.94,1595.76
+1700,2025-09-09,Alimentos,Azeite Extra Virgem,5,12.9,64.5
+1114,2025-09-09,Alimentos,Café Especial,4,37.92,151.68
+2131,2025-09-10,Eletrônicos,Carregador Portátil,2,396.08,792.16
+1110,2025-09-10,Esporte e Lazer,Garrafa Térmica,2,153.91,307.82
+1506,2025-09-11,Vestuário,Calça Jeans,2,166.45,332.9
+1762,2025-09-11,Esporte e Lazer,Bola de Futebol,1,25.0,25.0
+1228,2025-09-12,Esporte e Lazer,Garrafa Térmica,1,284.97,284.97
+1040,2025-09-12,Esporte e Lazer,Garrafa Térmica,2,230.9,461.8
+1949,2025-09-13,Alimentos,Chocolate,1,46.47,46.47
+2199,2025-09-13,Eletrônicos,Smartwatch,5,80.3,401.5
+1236,2025-09-13,Eletrônicos,Smartwatch,5,174.23,871.15
+1440,2025-09-13,Vestuário,Camiseta,2,67.83,135.66
+1749,2025-09-14,Vestuário,Calça Jeans,5,244.62,1223.1
+1320,2025-09-14,Vestuário,Tênis,2,84.75,169.5
+1209,2025-09-14,Esporte e Lazer,Tênis de Corrida,2,297.64,595.28
+1894,2025-09-15,Alimentos,Café Especial,5,13.36,66.8
+1414,2025-09-15,Alimentos,Azeite Extra Virgem,5,43.79,218.95
+1809,2025-09-15,Esporte e Lazer,Garrafa Térmica,1,63.05,63.05
+1488,2025-09-15,Esporte e Lazer,Tênis de Corrida,4,290.78,1163.12
+1124,2025-09-16,Eletrônicos,Carregador Portátil,4,386.78,1547.12
+1516,2025-09-16,Esporte e Lazer,Kit Yoga,1,215.39,215.39
+1286,2025-09-16,Esporte e Lazer,Tênis de Corrida,1,193.43,193.43
+2123,2025-09-17,Eletrônicos,Carregador Portátil,2,359.01,718.02
+2196,2025-09-18,Casa e Decoração,Jogo de Panelas,2,269.2,538.4
+2005,2025-09-19,Alimentos,Barra de Cereal,5,38.82,194.1
+1354,2025-09-19,Vestuário,Jaqueta,3,99.61,298.83
+1779,2025-09-19,Casa e Decoração,Tapete,5,261.27,1306.35
+1597,2025-09-19,Vestuário,Jaqueta,3,98.13,294.39
+1401,2025-09-20,Casa e Decoração,Luminária,5,79.84,399.2
+1232,2025-09-20,Eletrônicos,Carregador Portátil,5,88.49,442.45
+1584,2025-09-21,Vestuário,Camiseta,5,164.58,822.9
+1010,2025-09-21,Alimentos,Barra de Cereal,1,22.94,22.94
+1377,2025-09-21,Esporte e Lazer,Garrafa Térmica,5,338.09,1690.45
+2020,2025-09-21,Casa e Decoração,Jogo de Panelas,2,115.48,230.96
+1009,2025-09-22,Vestuário,Camiseta,2,183.69,367.38
+1391,2025-09-22,Alimentos,Café Especial,2,57.57,115.14
+1560,2025-09-22,Casa e Decoração,Luminária,2,59.9,119.8
+2144,2025-09-22,Vestuário,Camiseta,5,166.92,834.6
+1616,2025-09-23,Vestuário,Jaqueta,1,168.64,168.64
+1810,2025-09-23,Esporte e Lazer,Kit Yoga,3,264.37,793.11
+1390,2025-09-24,Alimentos,Chocolate,2,47.97,95.94
+1250,2025-09-24,Alimentos,Chocolate,4,45.95,183.8
+1996,2025-09-24,Casa e Decoração,Tapete,4,265.74,1062.96
+1881,2025-09-24,Alimentos,Café Especial,5,20.75,103.75
+1619,2025-09-25,Alimentos,Azeite Extra Virgem,1,14.22,14.22
+1914,2025-09-25,Casa e Decoração,Luminária,3,202.54,607.62
+1586,2025-09-25,Alimentos,Azeite Extra Virgem,2,38.67,77.34
+1246,2025-09-25,Esporte e Lazer,Tênis de Corrida,5,82.0,410.0
+1551,2025-09-25,Vestuário,Jaqueta,3,116.25,348.75
+1676,2025-09-26,Esporte e Lazer,Kit Yoga,5,160.24,801.2
+1857,2025-09-26,Esporte e Lazer,Bola de Futebol,1,245.64,245.64
+1420,2025-09-26,Eletrônicos,Mouse Sem Fio,2,294.27,588.54
+1312,2025-09-27,Esporte e Lazer,Garrafa Térmica,4,235.46,941.84
+1013,2025-09-27,Casa e Decoração,Almofada,5,134.94,674.7
+1817,2025-09-28,Casa e Decoração,Almofada,3,225.33,675.99
+2137,2025-09-28,Vestuário,Tênis,5,64.46,322.3
+1758,2025-09-28,Alimentos,Café Especial,1,30.47,30.47
+1927,2025-09-28,Esporte e Lazer,Garrafa Térmica,3,345.22,1035.66
+1006,2025-09-28,Alimentos,Chocolate,4,39.62,158.48
+1568,2025-09-29,Vestuário,Calça Jeans,3,184.13,552.39
+1083,2025-09-29,Esporte e Lazer,Kit Yoga,5,223.81,1119.05
+1125,2025-09-29,Casa e Decoração,Tapete,4,120.63,482.52
+1770,2025-09-29,Alimentos,Azeite Extra Virgem,2,45.47,90.94
+1452,2025-09-30,Esporte e Lazer,Kit Yoga,4,124.53,498.12
+1067,2025-09-30,Eletrônicos,Fone Bluetooth,3,306.85,920.55
+1481,2025-09-30,Vestuário,Jaqueta,1,118.16,118.16
+1646,2025-09-30,Alimentos,Chocolate,2,41.17,82.34
+1954,2025-09-30,Vestuário,Tênis,2,239.19,478.38
+1924,2025-09-30,Vestuário,Calça Jeans,5,57.87,289.35
+2010,2025-09-30,Eletrônicos,Smartwatch,5,151.67,758.35
+2138,2025-10-01,Alimentos,Azeite Extra Virgem,3,32.97,98.91
+1008,2025-10-01,Casa e Decoração,Almofada,4,182.09,728.36
+1578,2025-10-02,Eletrônicos,Mouse Sem Fio,4,394.18,1576.72
+1580,2025-10-02,Casa e Decoração,Luminária,5,175.99,879.95
+1178,2025-10-02,Casa e Decoração,Almofada,4,95.45,381.8
+1953,2025-10-03,Casa e Decoração,Almofada,1,71.05,71.05
+1923,2025-10-03,Casa e Decoração,Jogo de Panelas,5,293.34,1466.7
+1058,2025-10-04,Eletrônicos,Mouse Sem Fio,1,142.48,142.48
+1329,2025-10-04,Vestuário,Calça Jeans,2,140.79,281.58
+1397,2025-10-04,Esporte e Lazer,Bola de Futebol,3,57.96,173.88
+1154,2025-10-04,Esporte e Lazer,Bola de Futebol,4,137.98,551.92
+2119,2025-10-05,Eletrônicos,Smartwatch,1,128.46,128.46
+1955,2025-10-06,Alimentos,Barra de Cereal,3,39.5,118.5
+1621,2025-10-06,Eletrônicos,Smartwatch,4,203.97,815.88
+2032,2025-10-06,Vestuário,Jaqueta,5,86.76,433.8
+2155,2025-10-06,Alimentos,Barra de Cereal,5,57.45,287.25
+1547,2025-10-06,Eletrônicos,Carregador Portátil,2,109.89,219.78
+2019,2025-10-07,Alimentos,Azeite Extra Virgem,1,25.65,25.65
+1416,2025-10-07,Casa e Decoração,Luminária,3,192.87,578.61
+1759,2025-10-07,Alimentos,Chocolate,5,46.34,231.7
+1577,2025-10-08,Vestuário,Calça Jeans,1,101.37,101.37
+2050,2025-10-08,Casa e Decoração,Luminária,2,45.3,90.6
+1691,2025-10-08,Eletrônicos,Fone Bluetooth,4,330.18,1320.72
+1677,2025-10-08,Eletrônicos,Carregador Portátil,2,267.48,534.96
+1396,2025-10-08,Casa e Decoração,Jogo de Panelas,3,46.27,138.81
+2069,2025-10-08,Esporte e Lazer,Bola de Futebol,4,331.5,1326.0
+1723,2025-10-09,Eletrônicos,Smartwatch,5,239.14,1195.7
+1134,2025-10-09,Eletrônicos,Smartwatch,3,349.48,1048.44
+1111,2025-10-10,Vestuário,Calça Jeans,5,147.8,739.0
+2006,2025-10-10,Esporte e Lazer,Tênis de Corrida,5,91.38,456.9
+1552,2025-10-10,Vestuário,Jaqueta,1,165.6,165.6
+1807,2025-10-10,Vestuário,Camiseta,1,181.13,181.13
+1467,2025-10-11,Alimentos,Azeite Extra Virgem,2,29.32,58.64
+1027,2025-10-11,Vestuário,Calça Jeans,5,102.08,510.4
+1734,2025-10-12,Alimentos,Café Especial,2,44.92,89.84
+1370,2025-10-12,Eletrônicos,Carregador Portátil,3,224.7,674.1
+1374,2025-10-12,Eletrônicos,Carregador Portátil,3,236.43,709.29
+1845,2025-10-12,Esporte e Lazer,Kit Yoga,5,259.63,1298.15
+2021,2025-10-13,Vestuário,Calça Jeans,2,49.04,98.08
+1429,2025-10-13,Esporte e Lazer,Garrafa Térmica,2,281.07,562.14
+1029,2025-10-13,Alimentos,Chocolate,2,16.1,32.2
+1102,2025-10-13,Eletrônicos,Fone Bluetooth,4,344.47,1377.88
+1424,2025-10-13,Casa e Decoração,Tapete,4,53.97,215.88
+1145,2025-10-13,Alimentos,Azeite Extra Virgem,2,27.41,54.82
+1581,2025-10-13,Eletrônicos,Mouse Sem Fio,1,230.01,230.01
+2179,2025-10-14,Esporte e Lazer,Bola de Futebol,5,183.66,918.3
+1951,2025-10-14,Esporte e Lazer,Bola de Futebol,4,106.14,424.56
+1896,2025-10-14,Alimentos,Chocolate,5,52.9,264.5
+1447,2025-10-14,Alimentos,Café Especial,3,19.59,58.77
+2088,2025-10-14,Alimentos,Café Especial,4,22.72,90.88
+1140,2025-10-15,Vestuário,Tênis,2,144.61,289.22
+1265,2025-10-15,Vestuário,Tênis,1,77.92,77.92
+1430,2025-10-15,Eletrônicos,Fone Bluetooth,4,330.25,1321.0
+1815,2025-10-15,Eletrônicos,Smartwatch,2,317.7,635.4
+1133,2025-10-16,Eletrônicos,Smartwatch,1,200.56,200.56
+1197,2025-10-16,Casa e Decoração,Luminária,2,235.86,471.72
+1055,2025-10-16,Esporte e Lazer,Garrafa Térmica,4,144.1,576.4
+1018,2025-10-16,Alimentos,Café Especial,2,27.92,55.84
+1980,2025-10-17,Alimentos,Barra de Cereal,2,55.24,110.48
+1627,2025-10-17,Casa e Decoração,Almofada,4,42.09,168.36
+1599,2025-10-18,Esporte e Lazer,Garrafa Térmica,1,192.89,192.89
+2029,2025-10-18,Eletrônicos,Mouse Sem Fio,3,225.41,676.23
+1230,2025-10-18,Alimentos,Chocolate,4,57.22,228.88
+1898,2025-10-18,Casa e Decoração,Jogo de Panelas,3,259.28,777.84
+2124,2025-10-18,Esporte e Lazer,Garrafa Térmica,3,121.03,363.09
+2130,2025-10-19,Vestuário,Calça Jeans,5,80.99,404.95
+1202,2025-10-19,Vestuário,Jaqueta,3,112.6,337.8
+1242,2025-10-20,Alimentos,Barra de Cereal,2,36.48,72.96
+1412,2025-10-20,Alimentos,Chocolate,3,21.6,64.8
+1987,2025-10-21,Esporte e Lazer,Kit Yoga,2,122.48,244.96
+1571,2025-10-21,Esporte e Lazer,Kit Yoga,1,123.78,123.78
+1003,2025-10-21,Vestuário,Tênis,4,78.51,314.04
+1375,2025-10-21,Casa e Decoração,Jogo de Panelas,5,68.76,343.8
+1164,2025-10-21,Alimentos,Azeite Extra Virgem,1,46.87,46.87
+1885,2025-10-21,Eletrônicos,Carregador Portátil,3,380.5,1141.5
+2170,2025-10-21,Esporte e Lazer,Bola de Futebol,4,348.87,1395.48
+1726,2025-10-21,Vestuário,Calça Jeans,2,77.86,155.72
+1540,2025-10-21,Casa e Decoração,Jogo de Panelas,2,294.08,588.16
+1675,2025-10-22,Eletrônicos,Fone Bluetooth,1,150.17,150.17
+2146,2025-10-22,Vestuário,Jaqueta,5,42.59,212.95
+1251,2025-10-22,Alimentos,Barra de Cereal,2,29.83,59.66
+1942,2025-10-22,Casa e Decoração,Jogo de Panelas,1,168.74,168.74
+1928,2025-10-23,Casa e Decoração,Tapete,3,118.09,354.27
+1187,2025-10-23,Casa e Decoração,Tapete,5,67.74,338.7
+2066,2025-10-23,Vestuário,Jaqueta,3,217.85,653.55
+1191,2025-10-23,Alimentos,Café Especial,1,47.38,47.38
+1918,2025-10-23,Vestuário,Calça Jeans,1,167.44,167.44
+1549,2025-10-24,Casa e Decoração,Almofada,5,114.33,571.65
+2182,2025-10-24,Alimentos,Café Especial,5,46.73,233.65
+2103,2025-10-26,Esporte e Lazer,Garrafa Térmica,1,52.96,52.96
+2027,2025-10-26,Eletrônicos,Mouse Sem Fio,4,183.79,735.16
+1735,2025-10-26,Esporte e Lazer,Garrafa Térmica,2,339.29,678.58
+1422,2025-10-27,Esporte e Lazer,Bola de Futebol,3,86.86,260.58
+2162,2025-10-28,Vestuário,Jaqueta,4,55.27,221.08
+1269,2025-10-28,Vestuário,Jaqueta,5,151.36,756.8
+1016,2025-10-28,Eletrônicos,Fone Bluetooth,1,327.12,327.12
+1496,2025-10-29,Alimentos,Azeite Extra Virgem,2,27.77,55.54
+1988,2025-10-29,Eletrônicos,Fone Bluetooth,1,204.84,204.84
+1486,2025-10-29,Casa e Decoração,Tapete,3,116.42,349.26
+1381,2025-10-29,Casa e Decoração,Almofada,1,88.23,88.23
+1572,2025-10-29,Casa e Decoração,Luminária,4,265.23,1060.92
+1234,2025-10-30,Esporte e Lazer,Garrafa Térmica,3,109.31,327.93
+1261,2025-10-30,Casa e Decoração,Luminária,3,227.7,683.1
+2177,2025-10-30,Alimentos,Barra de Cereal,2,12.17,24.34
+1319,2025-10-30,Esporte e Lazer,Kit Yoga,4,154.22,616.88
+2071,2025-10-30,Esporte e Lazer,Bola de Futebol,5,221.95,1109.75
+1048,2025-10-31,Casa e Decoração,Almofada,5,268.31,1341.55
+1693,2025-10-31,Casa e Decoração,Tapete,1,158.51,158.51
+1899,2025-10-31,Esporte e Lazer,Kit Yoga,2,254.5,509.0
+1977,2025-10-31,Eletrônicos,Carregador Portátil,4,139.43,557.72
+1393,2025-10-31,Esporte e Lazer,Kit Yoga,4,179.93,719.72
+2068,2025-11-01,Vestuário,Tênis,4,97.94,391.76
+1260,2025-11-01,Esporte e Lazer,Tênis de Corrida,2,249.43,498.86
+1389,2025-11-01,Eletrônicos,Carregador Portátil,4,84.69,338.76
+1533,2025-11-01,Alimentos,Azeite Extra Virgem,1,57.35,57.35
+2112,2025-11-01,Vestuário,Jaqueta,4,236.29,945.16
+1367,2025-11-01,Eletrônicos,Mouse Sem Fio,4,222.84,891.36
+1767,2025-11-02,Esporte e Lazer,Tênis de Corrida,3,113.22,339.66
+1683,2025-11-02,Eletrônicos,Smartwatch,5,380.94,1904.7
+1604,2025-11-03,Alimentos,Azeite Extra Virgem,1,11.48,11.48
+2121,2025-11-04,Eletrônicos,Fone Bluetooth,4,205.36,821.44
+1974,2025-11-04,Vestuário,Tênis,1,188.31,188.31
+1453,2025-11-04,Casa e Decoração,Tapete,2,65.29,130.58
+2110,2025-11-05,Eletrônicos,Fone Bluetooth,1,346.63,346.63
+1806,2025-11-05,Vestuário,Calça Jeans,3,118.38,355.14
+1193,2025-11-05,Alimentos,Azeite Extra Virgem,3,31.58,94.74
+2164,2025-11-05,Vestuário,Calça Jeans,5,87.18,435.9
+1441,2025-11-06,Eletrônicos,Mouse Sem Fio,1,274.0,274.0
+1442,2025-11-06,Esporte e Lazer,Garrafa Térmica,3,334.66,1003.98
+2086,2025-11-06,Casa e Decoração,Luminária,5,57.93,289.65
+1945,2025-11-06,Casa e Decoração,Tapete,1,230.23,230.23
+1968,2025-11-06,Eletrônicos,Fone Bluetooth,3,213.95,641.85
+1272,2025-11-07,Alimentos,Barra de Cereal,2,11.06,22.12
+1136,2025-11-07,Casa e Decoração,Almofada,5,299.92,1499.6
+1402,2025-11-08,Eletrônicos,Smartwatch,5,162.1,810.5
+1862,2025-11-08,Eletrônicos,Fone Bluetooth,1,359.73,359.73
+1789,2025-11-09,Esporte e Lazer,Garrafa Térmica,3,301.47,904.41
+1626,2025-11-09,Casa e Decoração,Tapete,1,171.97,171.97
+1212,2025-11-09,Esporte e Lazer,Bola de Futebol,1,62.14,62.14
+1512,2025-11-09,Casa e Decoração,Luminária,5,76.84,384.2
+2114,2025-11-09,Vestuário,Camiseta,5,111.25,556.25
+1858,2025-11-10,Eletrônicos,Carregador Portátil,5,328.48,1642.4
+2035,2025-11-10,Eletrônicos,Fone Bluetooth,3,272.78,818.34
+1004,2025-11-10,Esporte e Lazer,Garrafa Térmica,1,119.65,119.65
+1097,2025-11-10,Esporte e Lazer,Bola de Futebol,5,329.41,1647.05
+1566,2025-11-10,Alimentos,Café Especial,1,52.07,52.07
+1457,2025-11-10,Esporte e Lazer,Tênis de Corrida,5,28.94,144.7
+1473,2025-11-10,Casa e Decoração,Jogo de Panelas,4,239.16,956.64
+1171,2025-11-11,Esporte e Lazer,Bola de Futebol,5,328.45,1642.25
+1482,2025-11-11,Casa e Decoração,Luminária,1,74.19,74.19
+1127,2025-11-12,Vestuário,Tênis,4,115.67,462.68
+1446,2025-11-12,Esporte e Lazer,Kit Yoga,2,236.32,472.64
+1892,2025-11-12,Vestuário,Tênis,1,228.56,228.56
+1325,2025-11-12,Vestuário,Jaqueta,4,207.27,829.08
+1842,2025-11-13,Eletrônicos,Smartwatch,3,345.24,1035.72
+1121,2025-11-13,Esporte e Lazer,Garrafa Térmica,5,347.71,1738.55
+1059,2025-11-13,Alimentos,Chocolate,3,48.43,145.29
+1856,2025-11-13,Esporte e Lazer,Kit Yoga,2,191.49,382.98
+1338,2025-11-13,Alimentos,Azeite Extra Virgem,1,56.81,56.81
+2052,2025-11-14,Esporte e Lazer,Garrafa Térmica,4,316.1,1264.4
+1173,2025-11-14,Eletrônicos,Carregador Portátil,3,247.84,743.52
+1275,2025-11-14,Esporte e Lazer,Garrafa Térmica,1,213.75,213.75
+2157,2025-11-15,Eletrônicos,Mouse Sem Fio,3,185.97,557.91
+1282,2025-11-15,Alimentos,Barra de Cereal,5,59.46,297.3
+1321,2025-11-16,Eletrônicos,Fone Bluetooth,4,260.08,1040.32
+1731,2025-11-16,Alimentos,Barra de Cereal,1,20.96,20.96
+1684,2025-11-16,Esporte e Lazer,Garrafa Térmica,3,293.68,881.04
+1871,2025-11-16,Alimentos,Azeite Extra Virgem,4,33.21,132.84
+2064,2025-11-17,Casa e Decoração,Almofada,2,243.7,487.4
+1632,2025-11-17,Casa e Decoração,Almofada,5,292.45,1462.25
+1628,2025-11-17,Eletrônicos,Carregador Portátil,4,188.73,754.92
+1737,2025-11-17,Alimentos,Azeite Extra Virgem,1,18.13,18.13
+1721,2025-11-17,Eletrônicos,Carregador Portátil,4,187.95,751.8
+1911,2025-11-17,Casa e Decoração,Almofada,4,41.43,165.72
+1644,2025-11-20,Alimentos,Café Especial,4,39.15,156.6
+1385,2025-11-20,Vestuário,Camiseta,4,180.19,720.76
+1206,2025-11-20,Esporte e Lazer,Garrafa Térmica,5,254.85,1274.25
+1589,2025-11-20,Alimentos,Café Especial,2,53.95,107.9
+2056,2025-11-20,Esporte e Lazer,Garrafa Térmica,2,34.76,69.52
+2108,2025-11-20,Eletrônicos,Mouse Sem Fio,2,326.54,653.08
+2045,2025-11-21,Vestuário,Tênis,4,134.51,538.04
+1631,2025-11-21,Vestuário,Tênis,4,161.85,647.4
+1358,2025-11-21,Esporte e Lazer,Tênis de Corrida,4,156.63,626.52
+1515,2025-11-21,Eletrônicos,Mouse Sem Fio,5,393.49,1967.45
+2091,2025-11-21,Casa e Decoração,Jogo de Panelas,1,135.27,135.27
+1808,2025-11-22,Eletrônicos,Carregador Portátil,4,159.85,639.4
+1889,2025-11-22,Casa e Decoração,Luminária,5,231.92,1159.6
+1074,2025-11-22,Alimentos,Chocolate,5,36.11,180.55
+1665,2025-11-23,Alimentos,Café Especial,4,51.71,206.84
+2014,2025-11-23,Alimentos,Barra de Cereal,1,32.21,32.21
+1220,2025-11-23,Eletrônicos,Mouse Sem Fio,5,207.14,1035.7
+1113,2025-11-23,Eletrônicos,Fone Bluetooth,4,192.07,768.28
+1535,2025-11-23,Eletrônicos,Fone Bluetooth,5,152.77,763.85
+1658,2025-11-25,Casa e Decoração,Almofada,1,202.85,202.85
+1183,2025-11-25,Eletrônicos,Fone Bluetooth,3,231.41,694.23
+2053,2025-11-25,Alimentos,Azeite Extra Virgem,4,43.62,174.48
+1872,2025-11-27,Vestuário,Jaqueta,3,235.15,705.45
+1717,2025-11-27,Casa e Decoração,Luminária,1,85.34,85.34
+1792,2025-11-27,Esporte e Lazer,Kit Yoga,4,226.92,907.68
+2080,2025-11-28,Casa e Decoração,Almofada,4,226.25,905.0
+2136,2025-11-28,Esporte e Lazer,Tênis de Corrida,3,67.96,203.88
+1729,2025-11-29,Vestuário,Jaqueta,4,178.41,713.64
+2151,2025-11-29,Esporte e Lazer,Tênis de Corrida,2,85.21,170.42
+1425,2025-11-29,Esporte e Lazer,Kit Yoga,1,80.41,80.41
+1583,2025-11-30,Eletrônicos,Mouse Sem Fio,3,368.93,1106.79
+2079,2025-11-30,Esporte e Lazer,Bola de Futebol,2,323.11,646.22
+1369,2025-11-30,Vestuário,Camiseta,5,236.69,1183.45
+1869,2025-12-01,Casa e Decoração,Tapete,5,180.95,904.75
+2190,2025-12-02,Casa e Decoração,Tapete,2,112.73,225.46
+1786,2025-12-02,Esporte e Lazer,Garrafa Térmica,3,334.55,1003.65
+1883,2025-12-02,Eletrônicos,Smartwatch,2,122.77,245.54
+2028,2025-12-03,Eletrônicos,Carregador Portátil,5,354.3,1771.5
+1254,2025-12-03,Alimentos,Café Especial,3,26.71,80.13
+1318,2025-12-03,Casa e Decoração,Tapete,4,227.44,909.76
+2012,2025-12-03,Alimentos,Azeite Extra Virgem,4,37.53,150.12
+1014,2025-12-04,Esporte e Lazer,Garrafa Térmica,2,338.71,677.42
+1611,2025-12-04,Vestuário,Calça Jeans,4,120.61,482.44
+1112,2025-12-05,Esporte e Lazer,Tênis de Corrida,4,101.92,407.68
+1864,2025-12-05,Alimentos,Barra de Cereal,1,54.13,54.13
+2059,2025-12-05,Esporte e Lazer,Garrafa Térmica,2,166.17,332.34
+2147,2025-12-05,Vestuário,Tênis,5,121.21,606.05
+2078,2025-12-06,Esporte e Lazer,Kit Yoga,5,47.55,237.75
+1277,2025-12-06,Esporte e Lazer,Tênis de Corrida,1,60.9,60.9
+1091,2025-12-06,Casa e Decoração,Luminária,3,203.69,611.07
+1052,2025-12-06,Alimentos,Chocolate,1,43.18,43.18
+2062,2025-12-07,Casa e Decoração,Jogo de Panelas,2,171.37,342.74
+1967,2025-12-07,Vestuário,Calça Jeans,5,197.38,986.9
+1087,2025-12-07,Casa e Decoração,Almofada,5,137.6,688.0
+1643,2025-12-07,Casa e Decoração,Almofada,4,254.29,1017.16
+1829,2025-12-07,Vestuário,Camiseta,2,92.16,184.32
+1538,2025-12-07,Esporte e Lazer,Bola de Futebol,1,242.43,242.43
+1072,2025-12-08,Alimentos,Café Especial,2,37.13,74.26
+1103,2025-12-08,Esporte e Lazer,Kit Yoga,3,151.49,454.47
+1066,2025-12-08,Vestuário,Jaqueta,3,102.01,306.03
+1237,2025-12-08,Casa e Decoração,Tapete,1,264.49,264.49
+2087,2025-12-09,Alimentos,Barra de Cereal,3,10.0,30.0
+1610,2025-12-09,Esporte e Lazer,Kit Yoga,1,221.23,221.23
+2175,2025-12-09,Eletrônicos,Fone Bluetooth,1,143.62,143.62
+1750,2025-12-09,Vestuário,Jaqueta,3,197.87,593.61
+2180,2025-12-09,Casa e Decoração,Almofada,5,46.45,232.25
+1469,2025-12-10,Esporte e Lazer,Kit Yoga,5,264.67,1323.35
+1307,2025-12-10,Esporte e Lazer,Kit Yoga,3,272.33,816.99
+1328,2025-12-10,Alimentos,Chocolate,5,17.48,87.4
+1633,2025-12-10,Alimentos,Azeite Extra Virgem,3,16.79,50.37
+1969,2025-12-10,Eletrônicos,Fone Bluetooth,3,174.01,522.03
+1932,2025-12-10,Vestuário,Jaqueta,3,158.32,474.96
+1280,2025-12-10,Casa e Decoração,Tapete,3,286.49,859.47
+1448,2025-12-11,Vestuário,Calça Jeans,3,198.39,595.17
+1409,2025-12-11,Vestuário,Jaqueta,4,71.44,285.76
+1079,2025-12-12,Esporte e Lazer,Bola de Futebol,5,51.28,256.4
+1747,2025-12-12,Eletrônicos,Smartwatch,5,160.32,801.6
+1043,2025-12-12,Alimentos,Azeite Extra Virgem,3,27.43,82.29
+1884,2025-12-12,Vestuário,Calça Jeans,1,97.11,97.11
+1439,2025-12-13,Vestuário,Jaqueta,2,241.04,482.08
+2176,2025-12-13,Esporte e Lazer,Garrafa Térmica,2,47.47,94.94
+2178,2025-12-13,Alimentos,Café Especial,5,38.37,191.85
+2167,2025-12-14,Casa e Decoração,Jogo de Panelas,1,254.81,254.81
+2046,2025-12-15,Casa e Decoração,Almofada,2,208.95,417.9
+1682,2025-12-15,Vestuário,Calça Jeans,1,53.16,53.16
+1661,2025-12-15,Alimentos,Azeite Extra Virgem,2,16.72,33.44
+1053,2025-12-15,Vestuário,Tênis,2,141.98,283.96
+1227,2025-12-15,Eletrônicos,Fone Bluetooth,3,153.94,461.82
+1062,2025-12-15,Eletrônicos,Smartwatch,5,263.13,1315.65
+1297,2025-12-15,Alimentos,Barra de Cereal,3,27.39,82.17
+1950,2025-12-15,Esporte e Lazer,Bola de Futebol,4,243.65,974.6
+1284,2025-12-15,Esporte e Lazer,Kit Yoga,5,64.11,320.55
+1042,2025-12-15,Alimentos,Chocolate,4,43.88,175.52
+1475,2025-12-16,Vestuário,Calça Jeans,4,228.77,915.08
+1984,2025-12-17,Vestuário,Tênis,4,230.93,923.72
+2061,2025-12-18,Esporte e Lazer,Kit Yoga,3,115.65,346.95
+1601,2025-12-19,Vestuário,Jaqueta,5,132.09,660.45
+1828,2025-12-19,Esporte e Lazer,Tênis de Corrida,2,280.9,561.8
+1854,2025-12-20,Alimentos,Café Especial,1,41.57,41.57
+1298,2025-12-20,Alimentos,Café Especial,5,46.7,233.5
+1259,2025-12-20,Casa e Decoração,Jogo de Panelas,5,54.73,273.65
+2184,2025-12-21,Eletrônicos,Mouse Sem Fio,3,280.22,840.66
+1077,2025-12-21,Casa e Decoração,Tapete,5,291.77,1458.85
+1976,2025-12-21,Alimentos,Chocolate,1,14.45,14.45
+1877,2025-12-21,Esporte e Lazer,Kit Yoga,4,266.23,1064.92
+1509,2025-12-22,Alimentos,Chocolate,5,17.37,86.85
+1180,2025-12-22,Esporte e Lazer,Kit Yoga,3,41.84,125.52
+2051,2025-12-22,Esporte e Lazer,Kit Yoga,2,87.87,175.74
+1703,2025-12-22,Vestuário,Jaqueta,1,194.6,194.6
+1900,2025-12-22,Alimentos,Barra de Cereal,3,56.92,170.76
+1620,2025-12-23,Esporte e Lazer,Bola de Futebol,1,95.22,95.22
+2134,2025-12-23,Eletrônicos,Smartwatch,1,127.73,127.73
+1732,2025-12-23,Eletrônicos,Smartwatch,3,136.35,409.05
+1099,2025-12-23,Eletrônicos,Mouse Sem Fio,3,396.96,1190.88
+1876,2025-12-23,Esporte e Lazer,Bola de Futebol,2,271.51,543.02
+1137,2025-12-24,Alimentos,Café Especial,5,46.31,231.55
+1671,2025-12-24,Vestuário,Tênis,1,145.13,145.13
+1669,2025-12-24,Alimentos,Azeite Extra Virgem,3,41.6,124.8
+1733,2025-12-24,Vestuário,Calça Jeans,4,214.17,856.68
+1339,2025-12-25,Eletrônicos,Smartwatch,4,358.71,1434.84
+1503,2025-12-25,Esporte e Lazer,Bola de Futebol,4,83.93,335.72
+1240,2025-12-25,Eletrônicos,Smartwatch,3,214.95,644.85
+1023,2025-12-25,Alimentos,Café Especial,2,11.27,22.54
+1981,2025-12-26,Vestuário,Jaqueta,3,101.8,305.4
+1011,2025-12-26,Casa e Decoração,Luminária,2,183.28,366.56
+1867,2025-12-26,Casa e Decoração,Jogo de Panelas,4,177.31,709.24
+1991,2025-12-26,Alimentos,Chocolate,2,38.03,76.06
+1188,2025-12-27,Esporte e Lazer,Bola de Futebol,4,78.19,312.76
+1724,2025-12-27,Alimentos,Chocolate,1,57.9,57.9
+1364,2025-12-27,Eletrônicos,Fone Bluetooth,4,268.12,1072.48
+1681,2025-12-27,Casa e Decoração,Almofada,1,30.04,30.04
+1493,2025-12-28,Vestuário,Tênis,1,195.76,195.76
+1495,2025-12-28,Vestuário,Jaqueta,1,156.57,156.57
+1852,2025-12-29,Esporte e Lazer,Tênis de Corrida,1,164.41,164.41
+1917,2025-12-30,Alimentos,Barra de Cereal,4,11.59,46.36
+1743,2025-12-30,Esporte e Lazer,Tênis de Corrida,2,317.95,635.9
+1624,2025-12-30,Vestuário,Tênis,3,134.53,403.59
+1215,2025-12-30,Alimentos,Azeite Extra Virgem,1,34.92,34.92
+1562,2025-12-30,Casa e Decoração,Almofada,5,98.67,493.35
+1524,2025-12-30,Vestuário,Calça Jeans,4,97.9,391.6
+1863,2025-12-30,Alimentos,Barra de Cereal,1,36.58,36.58
+1897,2025-12-31,Alimentos,Azeite Extra Virgem,5,25.91,129.55
+2083,2025-12-31,Alimentos,Chocolate,3,56.21,168.63
+1943,2025-12-31,Eletrônicos,Fone Bluetooth,5,243.25,1216.25
